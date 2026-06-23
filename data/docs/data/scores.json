@@ -1,0 +1,113 @@
+{
+ "date": "2026-06-22",
+ "games": [
+  {
+   "away": "New York Yankees",
+   "away_abbr": "NYY",
+   "away_score": 3,
+   "home": "Detroit Tigers",
+   "home_abbr": "DET",
+   "home_score": 5,
+   "winner": "DET"
+  },
+  {
+   "away": "Kansas City Royals",
+   "away_abbr": "KC",
+   "away_score": 2,
+   "home": "Tampa Bay Rays",
+   "home_abbr": "TB",
+   "home_score": 1,
+   "winner": "KC"
+  },
+  {
+   "away": "Texas Rangers",
+   "away_abbr": "TEX",
+   "away_score": 4,
+   "home": "Miami Marlins",
+   "home_abbr": "MIA",
+   "home_score": 3,
+   "winner": "TEX"
+  },
+  {
+   "away": "Philadelphia Phillies",
+   "away_abbr": "PHI",
+   "away_score": 1,
+   "home": "Washington Nationals",
+   "home_abbr": "WSH",
+   "home_score": 4,
+   "winner": "WSH"
+  },
+  {
+   "away": "Houston Astros",
+   "away_abbr": "HOU",
+   "away_score": 2,
+   "home": "Toronto Blue Jays",
+   "home_abbr": "TOR",
+   "home_score": 4,
+   "winner": "TOR"
+  },
+  {
+   "away": "Milwaukee Brewers",
+   "away_abbr": "MIL",
+   "away_score": 2,
+   "home": "Cincinnati Reds",
+   "home_abbr": "CIN",
+   "home_score": 1,
+   "winner": "MIL"
+  },
+  {
+   "away": "Los Angeles Dodgers",
+   "away_abbr": "LAD",
+   "away_score": 2,
+   "home": "Minnesota Twins",
+   "home_abbr": "MIN",
+   "home_score": 1,
+   "winner": "LAD"
+  },
+  {
+   "away": "Cleveland Guardians",
+   "away_abbr": "CLE",
+   "away_score": 5,
+   "home": "Chicago White Sox",
+   "home_abbr": "CWS",
+   "home_score": 6,
+   "winner": "CWS"
+  },
+  {
+   "away": "Arizona Diamondbacks",
+   "away_abbr": "AZ",
+   "away_score": 2,
+   "home": "St. Louis Cardinals",
+   "home_abbr": "STL",
+   "home_score": 3,
+   "winner": "STL"
+  },
+  {
+   "away": "Boston Red Sox",
+   "away_abbr": "BOS",
+   "away_score": 2,
+   "home": "Colorado Rockies",
+   "home_abbr": "COL",
+   "home_score": 3,
+   "winner": "COL"
+  },
+  {
+   "away": "Baltimore Orioles",
+   "away_abbr": "BAL",
+   "away_score": 6,
+   "home": "Los Angeles Angels",
+   "home_abbr": "LAA",
+   "home_score": 1,
+   "winner": "BAL"
+  },
+  {
+   "away": "Atlanta Braves",
+   "away_abbr": "ATL",
+   "away_score": 0,
+   "home": "San Diego Padres",
+   "home_abbr": "SD",
+   "home_score": 1,
+   "winner": "SD"
+  }
+ ]
+}
