@@ -4,7 +4,7 @@
    {
     "name": "Otto Lopez",
     "team": "",
-    "value": ".332"
+    "value": ".336"
    },
    {
     "name": "Jung Hoo Lee",
@@ -19,7 +19,7 @@
    {
     "name": "Yordan Alvarez",
     "team": "",
-    "value": ".322"
+    "value": ".323"
    },
    {
     "name": "Luis Arraez",
@@ -41,7 +41,7 @@
    {
     "name": "Byron Buxton",
     "team": "",
-    "value": "24"
+    "value": "25"
    },
    {
     "name": "Ben Rice",
@@ -85,12 +85,7 @@
    {
     "name": "Yordan Alvarez",
     "team": "",
-    "value": "1.068"
-   },
-   {
-    "name": "Ben Rice",
-    "team": "",
-    "value": "1.004"
+    "value": "1.070"
    },
    {
     "name": "Nick Kurtz",
@@ -98,14 +93,19 @@
     "value": ".995"
    },
    {
+    "name": "Ben Rice",
+    "team": "",
+    "value": ".990"
+   },
+   {
+    "name": "Shohei Ohtani",
+    "team": "",
+    "value": ".976"
+   },
+   {
     "name": "Juan Soto",
     "team": "",
     "value": ".973"
-   },
-   {
-    "name": "Kyle Schwarber",
-    "team": "",
-    "value": ".972"
    }
   ]
  },
@@ -151,17 +151,17 @@
    {
     "name": "Dylan Cease",
     "team": "",
-    "value": "110"
+    "value": "118"
+   },
+   {
+    "name": "Gavin Williams",
+    "team": "",
+    "value": "111"
    },
    {
     "name": "Cam Schlittler",
     "team": "",
     "value": "109"
-   },
-   {
-    "name": "Paul Skenes",
-    "team": "",
-    "value": "107"
    }
   ],
   "Wins": [
@@ -181,12 +181,12 @@
     "value": "9"
    },
    {
-    "name": "Cristopher S\u00e1nchez",
+    "name": "Andre Pallante",
     "team": "",
     "value": "9"
    },
    {
-    "name": "Gavin Williams",
+    "name": "Cristopher S\u00e1nchez",
     "team": "",
     "value": "9"
    }
@@ -223,46 +223,46 @@
   {
    "team": "Dodgers",
    "abbr": "",
-   "w": 49,
+   "w": 50,
    "l": 29,
-   "pct": ".628",
-   "rs": 405,
-   "ra": 272,
-   "diff": 133,
-   "streak": "L2"
+   "pct": ".633",
+   "rs": 407,
+   "ra": 273,
+   "diff": 134,
+   "streak": "W1"
   },
   {
    "team": "Brewers",
    "abbr": "",
-   "w": 46,
+   "w": 47,
    "l": 29,
-   "pct": ".613",
-   "rs": 397,
-   "ra": 278,
-   "diff": 119,
-   "streak": "W1"
+   "pct": ".618",
+   "rs": 399,
+   "ra": 279,
+   "diff": 120,
+   "streak": "W2"
   },
   {
    "team": "Yankees",
    "abbr": "",
    "w": 46,
-   "l": 30,
-   "pct": ".605",
-   "rs": 389,
-   "ra": 277,
-   "diff": 112,
-   "streak": "L2"
+   "l": 31,
+   "pct": ".597",
+   "rs": 392,
+   "ra": 282,
+   "diff": 110,
+   "streak": "L3"
   },
   {
    "team": "Braves",
    "abbr": "",
    "w": 48,
-   "l": 28,
-   "pct": ".632",
+   "l": 29,
+   "pct": ".623",
    "rs": 377,
-   "ra": 280,
-   "diff": 97,
-   "streak": "L1"
+   "ra": 281,
+   "diff": 96,
+   "streak": "L2"
   },
   {
    "team": "Cubs",
@@ -287,6 +287,17 @@
    "streak": "W1"
   },
   {
+   "team": "Nationals",
+   "abbr": "",
+   "w": 41,
+   "l": 38,
+   "pct": ".519",
+   "rs": 420,
+   "ra": 405,
+   "diff": 15,
+   "streak": "W1"
+  },
+  {
    "team": "Pirates",
    "abbr": "",
    "w": 39,
@@ -298,169 +309,158 @@
    "streak": "W1"
   },
   {
-   "team": "Nationals",
-   "abbr": "",
-   "w": 40,
-   "l": 38,
-   "pct": ".513",
-   "rs": 416,
-   "ra": 404,
-   "diff": 12,
-   "streak": "L1"
-  },
-  {
    "team": "Rays",
    "abbr": "",
    "w": 43,
-   "l": 31,
-   "pct": ".581",
-   "rs": 327,
-   "ra": 319,
-   "diff": 8,
-   "streak": "W1"
+   "l": 32,
+   "pct": ".573",
+   "rs": 328,
+   "ra": 321,
+   "diff": 7,
+   "streak": "L1"
   },
   {
    "team": "Cardinals",
    "abbr": "",
-   "w": 41,
+   "w": 42,
    "l": 34,
-   "pct": ".547",
-   "rs": 349,
-   "ra": 345,
-   "diff": 4,
-   "streak": "W1"
+   "pct": ".553",
+   "rs": 352,
+   "ra": 347,
+   "diff": 5,
+   "streak": "W2"
   },
   {
    "team": "Marlins",
    "abbr": "",
    "w": 40,
-   "l": 38,
-   "pct": ".513",
-   "rs": 336,
-   "ra": 336,
-   "diff": 0,
-   "streak": "W4"
+   "l": 39,
+   "pct": ".506",
+   "rs": 339,
+   "ra": 340,
+   "diff": -1,
+   "streak": "L1"
   },
   {
    "team": "White Sox",
    "abbr": "",
-   "w": 39,
+   "w": 40,
    "l": 37,
-   "pct": ".513",
-   "rs": 353,
-   "ra": 357,
-   "diff": -4,
-   "streak": "L3"
+   "pct": ".519",
+   "rs": 359,
+   "ra": 362,
+   "diff": -3,
+   "streak": "W1"
+  },
+  {
+   "team": "Tigers",
+   "abbr": "",
+   "w": 34,
+   "l": 44,
+   "pct": ".436",
+   "rs": 319,
+   "ra": 322,
+   "diff": -3,
+   "streak": "W4"
   },
   {
    "team": "Phillies",
    "abbr": "",
    "w": 42,
-   "l": 35,
-   "pct": ".545",
-   "rs": 329,
-   "ra": 333,
-   "diff": -4,
-   "streak": "W2"
-  },
-  {
-   "team": "Tigers",
-   "abbr": "",
-   "w": 33,
-   "l": 44,
-   "pct": ".429",
-   "rs": 314,
-   "ra": 319,
-   "diff": -5,
-   "streak": "W3"
+   "l": 36,
+   "pct": ".538",
+   "rs": 330,
+   "ra": 337,
+   "diff": -7,
+   "streak": "L1"
   },
   {
    "team": "Red Sox",
    "abbr": "",
    "w": 31,
-   "l": 44,
-   "pct": ".413",
-   "rs": 294,
-   "ra": 301,
-   "diff": -7,
-   "streak": "L1"
+   "l": 45,
+   "pct": ".408",
+   "rs": 296,
+   "ra": 304,
+   "diff": -8,
+   "streak": "L2"
   },
   {
    "team": "Guardians",
    "abbr": "",
    "w": 41,
-   "l": 37,
-   "pct": ".526",
-   "rs": 310,
-   "ra": 317,
-   "diff": -7,
-   "streak": "L1"
+   "l": 38,
+   "pct": ".519",
+   "rs": 315,
+   "ra": 323,
+   "diff": -8,
+   "streak": "L2"
   },
   {
    "team": "Padres",
    "abbr": "",
-   "w": 39,
+   "w": 40,
    "l": 37,
-   "pct": ".513",
-   "rs": 296,
+   "pct": ".519",
+   "rs": 297,
    "ra": 306,
-   "diff": -10,
-   "streak": "L1"
+   "diff": -9,
+   "streak": "W1"
   },
   {
    "team": "Rangers",
    "abbr": "",
-   "w": 37,
+   "w": 38,
    "l": 40,
-   "pct": ".481",
-   "rs": 309,
-   "ra": 320,
-   "diff": -11,
-   "streak": "W1"
+   "pct": ".487",
+   "rs": 313,
+   "ra": 323,
+   "diff": -10,
+   "streak": "W2"
   },
   {
    "team": "Twins",
    "abbr": "",
    "w": 38,
-   "l": 41,
-   "pct": ".481",
-   "rs": 388,
-   "ra": 406,
-   "diff": -18,
-   "streak": "W2"
-  },
-  {
-   "team": "Blue Jays",
-   "abbr": "",
-   "w": 38,
-   "l": 39,
-   "pct": ".494",
-   "rs": 316,
-   "ra": 341,
-   "diff": -25,
-   "streak": "W1"
+   "l": 42,
+   "pct": ".475",
+   "rs": 389,
+   "ra": 408,
+   "diff": -19,
+   "streak": "L1"
   },
   {
    "team": "Orioles",
    "abbr": "",
-   "w": 37,
+   "w": 38,
    "l": 42,
-   "pct": ".468",
-   "rs": 369,
-   "ra": 394,
-   "diff": -25,
+   "pct": ".475",
+   "rs": 375,
+   "ra": 395,
+   "diff": -20,
+   "streak": "W3"
+  },
+  {
+   "team": "Blue Jays",
+   "abbr": "",
+   "w": 39,
+   "l": 39,
+   "pct": ".500",
+   "rs": 320,
+   "ra": 343,
+   "diff": -23,
    "streak": "W2"
   },
   {
    "team": "D-backs",
    "abbr": "",
    "w": 39,
-   "l": 38,
-   "pct": ".506",
-   "rs": 331,
-   "ra": 356,
-   "diff": -25,
-   "streak": "L2"
+   "l": 39,
+   "pct": ".500",
+   "rs": 333,
+   "ra": 359,
+   "diff": -26,
+   "streak": "L3"
   },
   {
    "team": "Mets",
@@ -477,45 +477,45 @@
    "team": "Angels",
    "abbr": "",
    "w": 32,
-   "l": 47,
-   "pct": ".405",
-   "rs": 361,
-   "ra": 397,
-   "diff": -36,
-   "streak": "W2"
+   "l": 48,
+   "pct": ".400",
+   "rs": 362,
+   "ra": 403,
+   "diff": -41,
+   "streak": "L1"
+  },
+  {
+   "team": "Royals",
+   "abbr": "",
+   "w": 33,
+   "l": 46,
+   "pct": ".418",
+   "rs": 333,
+   "ra": 376,
+   "diff": -43,
+   "streak": "W1"
   },
   {
    "team": "Astros",
    "abbr": "",
    "w": 37,
-   "l": 42,
-   "pct": ".468",
-   "rs": 356,
-   "ra": 397,
-   "diff": -41,
-   "streak": "W1"
-  },
-  {
-   "team": "Royals",
-   "abbr": "",
-   "w": 32,
-   "l": 46,
-   "pct": ".410",
-   "rs": 331,
-   "ra": 375,
-   "diff": -44,
+   "l": 43,
+   "pct": ".463",
+   "rs": 358,
+   "ra": 401,
+   "diff": -43,
    "streak": "L1"
   },
   {
    "team": "Reds",
    "abbr": "",
    "w": 37,
-   "l": 39,
-   "pct": ".487",
-   "rs": 325,
-   "ra": 371,
-   "diff": -46,
-   "streak": "W2"
+   "l": 40,
+   "pct": ".481",
+   "rs": 326,
+   "ra": 373,
+   "diff": -47,
+   "streak": "L1"
   },
   {
    "team": "Athletics",
@@ -542,13 +542,13 @@
   {
    "team": "Rockies",
    "abbr": "",
-   "w": 30,
+   "w": 31,
    "l": 48,
-   "pct": ".385",
-   "rs": 356,
-   "ra": 446,
-   "diff": -90,
-   "streak": "L1"
+   "pct": ".392",
+   "rs": 359,
+   "ra": 448,
+   "diff": -89,
+   "streak": "W1"
   }
  ]
 }
