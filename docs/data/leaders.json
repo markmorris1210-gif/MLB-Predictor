@@ -1,0 +1,554 @@
+{
+ "hitting": {
+  "AVG": [
+   {
+    "name": "Otto Lopez",
+    "team": "",
+    "value": ".332"
+   },
+   {
+    "name": "Jung Hoo Lee",
+    "team": "",
+    "value": ".327"
+   },
+   {
+    "name": "Yandy D\u00edaz",
+    "team": "",
+    "value": ".326"
+   },
+   {
+    "name": "Yordan Alvarez",
+    "team": "",
+    "value": ".322"
+   },
+   {
+    "name": "Luis Arraez",
+    "team": "",
+    "value": ".320"
+   }
+  ],
+  "HR": [
+   {
+    "name": "Kyle Schwarber",
+    "team": "",
+    "value": "29"
+   },
+   {
+    "name": "Yordan Alvarez",
+    "team": "",
+    "value": "25"
+   },
+   {
+    "name": "Byron Buxton",
+    "team": "",
+    "value": "24"
+   },
+   {
+    "name": "Ben Rice",
+    "team": "",
+    "value": "22"
+   },
+   {
+    "name": "Hunter Goodman",
+    "team": "",
+    "value": "21"
+   }
+  ],
+  "RBI": [
+   {
+    "name": "Nick Kurtz",
+    "team": "",
+    "value": "61"
+   },
+   {
+    "name": "Jordan Walker",
+    "team": "",
+    "value": "58"
+   },
+   {
+    "name": "CJ Abrams",
+    "team": "",
+    "value": "57"
+   },
+   {
+    "name": "Andy Pages",
+    "team": "",
+    "value": "57"
+   },
+   {
+    "name": "Yordan Alvarez",
+    "team": "",
+    "value": "56"
+   }
+  ],
+  "OPS": [
+   {
+    "name": "Yordan Alvarez",
+    "team": "",
+    "value": "1.068"
+   },
+   {
+    "name": "Ben Rice",
+    "team": "",
+    "value": "1.004"
+   },
+   {
+    "name": "Nick Kurtz",
+    "team": "",
+    "value": ".995"
+   },
+   {
+    "name": "Juan Soto",
+    "team": "",
+    "value": ".973"
+   },
+   {
+    "name": "Kyle Schwarber",
+    "team": "",
+    "value": ".972"
+   }
+  ]
+ },
+ "pitching": {
+  "ERA": [
+   {
+    "name": "Jacob Misiorowski",
+    "team": "",
+    "value": "1.45"
+   },
+   {
+    "name": "Cam Schlittler",
+    "team": "",
+    "value": "1.71"
+   },
+   {
+    "name": "Cristopher S\u00e1nchez",
+    "team": "",
+    "value": "1.80"
+   },
+   {
+    "name": "Chase Burns",
+    "team": "",
+    "value": "2.00"
+   },
+   {
+    "name": "Chris Sale",
+    "team": "",
+    "value": "2.14"
+   }
+  ],
+  "Strikeouts": [
+   {
+    "name": "Jacob Misiorowski",
+    "team": "",
+    "value": "138"
+   },
+   {
+    "name": "Cristopher S\u00e1nchez",
+    "team": "",
+    "value": "121"
+   },
+   {
+    "name": "Dylan Cease",
+    "team": "",
+    "value": "110"
+   },
+   {
+    "name": "Cam Schlittler",
+    "team": "",
+    "value": "109"
+   },
+   {
+    "name": "Paul Skenes",
+    "team": "",
+    "value": "107"
+   }
+  ],
+  "Wins": [
+   {
+    "name": "Aaron Ashby",
+    "team": "",
+    "value": "10"
+   },
+   {
+    "name": "Chase Burns",
+    "team": "",
+    "value": "9"
+   },
+   {
+    "name": "Davis Martin",
+    "team": "",
+    "value": "9"
+   },
+   {
+    "name": "Cristopher S\u00e1nchez",
+    "team": "",
+    "value": "9"
+   },
+   {
+    "name": "Gavin Williams",
+    "team": "",
+    "value": "9"
+   }
+  ],
+  "WHIP": [
+   {
+    "name": "Jacob Misiorowski",
+    "team": "",
+    "value": "0.75"
+   },
+   {
+    "name": "Yoshinobu Yamamoto",
+    "team": "",
+    "value": "0.87"
+   },
+   {
+    "name": "Drew Rasmussen",
+    "team": "",
+    "value": "0.88"
+   },
+   {
+    "name": "Cam Schlittler",
+    "team": "",
+    "value": "0.89"
+   },
+   {
+    "name": "Paul Skenes",
+    "team": "",
+    "value": "0.93"
+   }
+  ]
+ },
+ "teams": [
+  {
+   "team": "Dodgers",
+   "abbr": "",
+   "w": 49,
+   "l": 29,
+   "pct": ".628",
+   "rs": 405,
+   "ra": 272,
+   "diff": 133,
+   "streak": "L2"
+  },
+  {
+   "team": "Brewers",
+   "abbr": "",
+   "w": 46,
+   "l": 29,
+   "pct": ".613",
+   "rs": 397,
+   "ra": 278,
+   "diff": 119,
+   "streak": "W1"
+  },
+  {
+   "team": "Yankees",
+   "abbr": "",
+   "w": 46,
+   "l": 30,
+   "pct": ".605",
+   "rs": 389,
+   "ra": 277,
+   "diff": 112,
+   "streak": "L2"
+  },
+  {
+   "team": "Braves",
+   "abbr": "",
+   "w": 48,
+   "l": 28,
+   "pct": ".632",
+   "rs": 377,
+   "ra": 280,
+   "diff": 97,
+   "streak": "L1"
+  },
+  {
+   "team": "Cubs",
+   "abbr": "",
+   "w": 40,
+   "l": 37,
+   "pct": ".519",
+   "rs": 366,
+   "ra": 345,
+   "diff": 21,
+   "streak": "L1"
+  },
+  {
+   "team": "Mariners",
+   "abbr": "",
+   "w": 40,
+   "l": 39,
+   "pct": ".506",
+   "rs": 326,
+   "ra": 309,
+   "diff": 17,
+   "streak": "W1"
+  },
+  {
+   "team": "Pirates",
+   "abbr": "",
+   "w": 39,
+   "l": 39,
+   "pct": ".500",
+   "rs": 391,
+   "ra": 377,
+   "diff": 14,
+   "streak": "W1"
+  },
+  {
+   "team": "Nationals",
+   "abbr": "",
+   "w": 40,
+   "l": 38,
+   "pct": ".513",
+   "rs": 416,
+   "ra": 404,
+   "diff": 12,
+   "streak": "L1"
+  },
+  {
+   "team": "Rays",
+   "abbr": "",
+   "w": 43,
+   "l": 31,
+   "pct": ".581",
+   "rs": 327,
+   "ra": 319,
+   "diff": 8,
+   "streak": "W1"
+  },
+  {
+   "team": "Cardinals",
+   "abbr": "",
+   "w": 41,
+   "l": 34,
+   "pct": ".547",
+   "rs": 349,
+   "ra": 345,
+   "diff": 4,
+   "streak": "W1"
+  },
+  {
+   "team": "Marlins",
+   "abbr": "",
+   "w": 40,
+   "l": 38,
+   "pct": ".513",
+   "rs": 336,
+   "ra": 336,
+   "diff": 0,
+   "streak": "W4"
+  },
+  {
+   "team": "White Sox",
+   "abbr": "",
+   "w": 39,
+   "l": 37,
+   "pct": ".513",
+   "rs": 353,
+   "ra": 357,
+   "diff": -4,
+   "streak": "L3"
+  },
+  {
+   "team": "Phillies",
+   "abbr": "",
+   "w": 42,
+   "l": 35,
+   "pct": ".545",
+   "rs": 329,
+   "ra": 333,
+   "diff": -4,
+   "streak": "W2"
+  },
+  {
+   "team": "Tigers",
+   "abbr": "",
+   "w": 33,
+   "l": 44,
+   "pct": ".429",
+   "rs": 314,
+   "ra": 319,
+   "diff": -5,
+   "streak": "W3"
+  },
+  {
+   "team": "Red Sox",
+   "abbr": "",
+   "w": 31,
+   "l": 44,
+   "pct": ".413",
+   "rs": 294,
+   "ra": 301,
+   "diff": -7,
+   "streak": "L1"
+  },
+  {
+   "team": "Guardians",
+   "abbr": "",
+   "w": 41,
+   "l": 37,
+   "pct": ".526",
+   "rs": 310,
+   "ra": 317,
+   "diff": -7,
+   "streak": "L1"
+  },
+  {
+   "team": "Padres",
+   "abbr": "",
+   "w": 39,
+   "l": 37,
+   "pct": ".513",
+   "rs": 296,
+   "ra": 306,
+   "diff": -10,
+   "streak": "L1"
+  },
+  {
+   "team": "Rangers",
+   "abbr": "",
+   "w": 37,
+   "l": 40,
+   "pct": ".481",
+   "rs": 309,
+   "ra": 320,
+   "diff": -11,
+   "streak": "W1"
+  },
+  {
+   "team": "Twins",
+   "abbr": "",
+   "w": 38,
+   "l": 41,
+   "pct": ".481",
+   "rs": 388,
+   "ra": 406,
+   "diff": -18,
+   "streak": "W2"
+  },
+  {
+   "team": "Blue Jays",
+   "abbr": "",
+   "w": 38,
+   "l": 39,
+   "pct": ".494",
+   "rs": 316,
+   "ra": 341,
+   "diff": -25,
+   "streak": "W1"
+  },
+  {
+   "team": "Orioles",
+   "abbr": "",
+   "w": 37,
+   "l": 42,
+   "pct": ".468",
+   "rs": 369,
+   "ra": 394,
+   "diff": -25,
+   "streak": "W2"
+  },
+  {
+   "team": "D-backs",
+   "abbr": "",
+   "w": 39,
+   "l": 38,
+   "pct": ".506",
+   "rs": 331,
+   "ra": 356,
+   "diff": -25,
+   "streak": "L2"
+  },
+  {
+   "team": "Mets",
+   "abbr": "",
+   "w": 34,
+   "l": 43,
+   "pct": ".442",
+   "rs": 311,
+   "ra": 342,
+   "diff": -31,
+   "streak": "L2"
+  },
+  {
+   "team": "Angels",
+   "abbr": "",
+   "w": 32,
+   "l": 47,
+   "pct": ".405",
+   "rs": 361,
+   "ra": 397,
+   "diff": -36,
+   "streak": "W2"
+  },
+  {
+   "team": "Astros",
+   "abbr": "",
+   "w": 37,
+   "l": 42,
+   "pct": ".468",
+   "rs": 356,
+   "ra": 397,
+   "diff": -41,
+   "streak": "W1"
+  },
+  {
+   "team": "Royals",
+   "abbr": "",
+   "w": 32,
+   "l": 46,
+   "pct": ".410",
+   "rs": 331,
+   "ra": 375,
+   "diff": -44,
+   "streak": "L1"
+  },
+  {
+   "team": "Reds",
+   "abbr": "",
+   "w": 37,
+   "l": 39,
+   "pct": ".487",
+   "rs": 325,
+   "ra": 371,
+   "diff": -46,
+   "streak": "W2"
+  },
+  {
+   "team": "Athletics",
+   "abbr": "",
+   "w": 38,
+   "l": 40,
+   "pct": ".487",
+   "rs": 364,
+   "ra": 418,
+   "diff": -54,
+   "streak": "L2"
+  },
+  {
+   "team": "Giants",
+   "abbr": "",
+   "w": 31,
+   "l": 46,
+   "pct": ".403",
+   "rs": 317,
+   "ra": 371,
+   "diff": -54,
+   "streak": "L3"
+  },
+  {
+   "team": "Rockies",
+   "abbr": "",
+   "w": 30,
+   "l": 48,
+   "pct": ".385",
+   "rs": 356,
+   "ra": 446,
+   "diff": -90,
+   "streak": "L1"
+  }
+ ]
+}
