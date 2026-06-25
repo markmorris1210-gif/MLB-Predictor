@@ -3,64 +3,6 @@
  "slate_date": "2026-06-25",
  "games": [
   {
-   "game_pk": 822961,
-   "date": "2026-06-25",
-   "game_time": "2026-06-25T16:10:00Z",
-   "venue": "Tropicana Field",
-   "home": "Tampa Bay Rays",
-   "home_abbr": "TB",
-   "away": "Kansas City Royals",
-   "away_abbr": "KC",
-   "home_pitcher": "Casey Legumina",
-   "away_pitcher": "Seth Lugo",
-   "prob_home": 0.9308,
-   "pick": "Tampa Bay Rays",
-   "confidence": 0.9308,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -0.040000000000000036,
-    "sp_whip_diff": -0.2100000000000002,
-    "sp_k_rate_diff": -0.01899999999999999,
-    "sp_last5_fip_diff": -1.6499999999999995,
-    "bullpen_score_diff": 15.199999999999996,
-    "ops_14d_diff": -0.14200000000000002,
-    "ops_vs_hand_diff": 0.02100000000000002,
-    "rpg_14d_diff": -2.8100000000000005,
-    "home_field": 1,
-    "park_factor": 96
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Tampa Bay Rays a 93% win probability. This forecast is 100% machine-learned (trained on 1151 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Tampa Bay Rays",
-      "text": "Casey Legumina holds a slight FIP edge (3.77 vs 3.81), with WHIPs of 1.14 / 1.35 and K rates of 16.7% / 18.6%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Tampa Bay Rays",
-      "text": "Over their last five starts the blended ERA/FIP marks are 3.24 (home) vs 4.89 (away) \u2014 a major edge in current form for the Tampa Bay Rays."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Tampa Bay Rays",
-      "text": "Bullpen Availability Scores: 72 vs 57 (quality FIP 3.96/4.73, relief IP last 3 days 3.0/2.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Tampa Bay Rays",
-      "text": "Against a righty starter, the Tampa Bay Rays OPS split vs the Kansas City Royals split shows a clear edge for the Tampa Bay Rays; 14-game OPS runs 0.690 vs 0.832."
-     },
-     {
-      "factor": "Context",
-      "lean": "Tampa Bay Rays",
-      "text": "Tampa Bay Rays get home field at Tropicana Field (park factor 96, pitcher-friendly). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
    "game_pk": 824747,
    "date": "2026-06-25",
    "game_time": "2026-06-25T23:10:00Z",
@@ -134,10 +76,10 @@
    "confidence": 0.65,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -2.71,
-    "sp_whip_diff": -0.06000000000000005,
-    "sp_k_rate_diff": 0.062,
-    "sp_last5_fip_diff": -4.03,
+    "sp_fip_diff": -2.66,
+    "sp_whip_diff": -0.020000000000000018,
+    "sp_k_rate_diff": 0.05500000000000002,
+    "sp_last5_fip_diff": -4.1499999999999995,
     "bullpen_score_diff": -11.5,
     "ops_14d_diff": -0.052000000000000046,
     "ops_vs_hand_diff": -0.03300000000000003,
@@ -151,12 +93,12 @@
      {
       "factor": "Starting pitching",
       "lean": "San Francisco Giants",
-      "text": "Landen Roupp holds a major FIP edge (3.05 vs 5.76), with WHIPs of 1.29 / 1.35 and K rates of 26.3% / 20.1%."
+      "text": "Landen Roupp holds a major FIP edge (2.99 vs 5.65), with WHIPs of 1.29 / 1.31 and K rates of 26.2% / 20.7%."
      },
      {
       "factor": "Recent form (last 5 starts)",
       "lean": "San Francisco Giants",
-      "text": "Over their last five starts the blended ERA/FIP marks are 4.97 (home) vs 9.00 (away) \u2014 a major edge in current form for the San Francisco Giants."
+      "text": "Over their last five starts the blended ERA/FIP marks are 4.69 (home) vs 8.84 (away) \u2014 a major edge in current form for the San Francisco Giants."
      },
      {
       "factor": "Bullpen availability score",
@@ -172,64 +114,6 @@
       "factor": "Context",
       "lean": "San Francisco Giants",
       "text": "San Francisco Giants get home field at Oracle Park (park factor 95, pitcher-friendly). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 823366,
-   "date": "2026-06-25",
-   "game_time": "2026-06-25T16:35:00Z",
-   "venue": "PNC Park",
-   "home": "Pittsburgh Pirates",
-   "home_abbr": "PIT",
-   "away": "Seattle Mariners",
-   "away_abbr": "SEA",
-   "home_pitcher": "Bubba Chandler",
-   "away_pitcher": "Bryce Miller",
-   "prob_home": 0.5968,
-   "pick": "Pittsburgh Pirates",
-   "confidence": 0.5968,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": 1.7400000000000002,
-    "sp_whip_diff": 0.69,
-    "sp_k_rate_diff": -0.092,
-    "sp_last5_fip_diff": 2.7600000000000007,
-    "bullpen_score_diff": -11.700000000000003,
-    "ops_14d_diff": 0.19800000000000006,
-    "ops_vs_hand_diff": 0.03400000000000003,
-    "rpg_14d_diff": 1.75,
-    "home_field": 1,
-    "park_factor": 99
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Pittsburgh Pirates a 60% win probability. This forecast is 100% machine-learned (trained on 1151 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Seattle Mariners",
-      "text": "Bryce Miller holds a major FIP edge (4.74 vs 3.00), with WHIPs of 1.39 / 0.70 and K rates of 21.3% / 30.5%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Seattle Mariners",
-      "text": "Over their last five starts the blended ERA/FIP marks are 4.44 (home) vs 1.68 (away) \u2014 a major edge in current form for the Seattle Mariners."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Seattle Mariners",
-      "text": "Bullpen Availability Scores: 79 vs 90 (quality FIP 3.95/3.43, relief IP last 3 days 0.0/0.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Pittsburgh Pirates",
-      "text": "Against a righty starter, the Pittsburgh Pirates OPS split vs the Seattle Mariners split shows a clear edge for the Pittsburgh Pirates; 14-game OPS runs 0.794 vs 0.596."
-     },
-     {
-      "factor": "Context",
-      "lean": "Pittsburgh Pirates",
-      "text": "Pittsburgh Pirates get home field at PNC Park (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
      }
     ]
    }
