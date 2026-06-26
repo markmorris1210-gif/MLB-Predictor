@@ -1,4 +1,77 @@
 {
- "date": "2026-06-24",
- "games": []
+ "date": "2026-06-25",
+ "games": [
+  {
+   "away": "Kansas City Royals",
+   "away_abbr": "KC",
+   "away_score": 2,
+   "home": "Tampa Bay Rays",
+   "home_abbr": "TB",
+   "home_score": 13,
+   "winner": "TB"
+  },
+  {
+   "away": "Seattle Mariners",
+   "away_abbr": "SEA",
+   "away_score": 1,
+   "home": "Pittsburgh Pirates",
+   "home_abbr": "PIT",
+   "home_score": 5,
+   "winner": "PIT"
+  },
+  {
+   "away": "Athletics",
+   "away_abbr": "ATH",
+   "away_score": 9,
+   "home": "San Francisco Giants",
+   "home_abbr": "SF",
+   "home_score": 6,
+   "winner": "ATH"
+  },
+  {
+   "away": "Houston Astros",
+   "away_abbr": "HOU",
+   "away_score": 2,
+   "home": "Detroit Tigers",
+   "home_abbr": "DET",
+   "home_score": 1,
+   "winner": "HOU"
+  },
+  {
+   "away": "Philadelphia Phillies",
+   "away_abbr": "PHI",
+   "away_score": 10,
+   "home": "Washington Nationals",
+   "home_abbr": "WSH",
+   "home_score": 5,
+   "winner": "PHI"
+  },
+  {
+   "away": "Texas Rangers",
+   "away_abbr": "TEX",
+   "away_score": 6,
+   "home": "Toronto Blue Jays",
+   "home_abbr": "TOR",
+   "home_score": 5,
+   "winner": "TEX"
+  },
+  {
+   "away": "Chicago Cubs",
+   "away_abbr": "CHC",
+   "away_score": 4,
+   "home": "New York Mets",
+   "home_abbr": "NYM",
+   "home_score": 3,
+   "winner": "CHC"
+  },
+  {
+   "away": "New York Yankees",
+   "away_abbr": "NYY",
+   "away_score": 3,
+   "home": "Boston Red Sox",
+   "home_abbr": "BOS",
+   "home_score": 6,
+   "winner": "BOS"
+  }
+ ]
 }

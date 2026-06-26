@@ -556,5 +556,59 @@
   "winner": "San Diego Padres",
   "score": "0\u20131",
   "correct": false
+ },
+ {
+  "date": "2026-06-25",
+  "matchup": "Athletics @ San Francisco Giants",
+  "prob_home": 0.65,
+  "predicted": "San Francisco Giants",
+  "winner": "Athletics",
+  "score": "9\u20136",
+  "correct": false
+ },
+ {
+  "date": "2026-06-25",
+  "matchup": "Houston Astros @ Detroit Tigers",
+  "prob_home": 0.5527,
+  "predicted": "Detroit Tigers",
+  "winner": "Houston Astros",
+  "score": "2\u20131",
+  "correct": false
+ },
+ {
+  "date": "2026-06-25",
+  "matchup": "Philadelphia Phillies @ Washington Nationals",
+  "prob_home": 0.5369,
+  "predicted": "Washington Nationals",
+  "winner": "Philadelphia Phillies",
+  "score": "10\u20135",
+  "correct": false
+ },
+ {
+  "date": "2026-06-25",
+  "matchup": "Texas Rangers @ Toronto Blue Jays",
+  "prob_home": 0.4291,
+  "predicted": "Texas Rangers",
+  "winner": "Texas Rangers",
+  "score": "6\u20135",
+  "correct": true
+ },
+ {
+  "date": "2026-06-25",
+  "matchup": "Chicago Cubs @ New York Mets",
+  "prob_home": 0.4331,
+  "predicted": "Chicago Cubs",
+  "winner": "Chicago Cubs",
+  "score": "4\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-06-25",
+  "matchup": "New York Yankees @ Boston Red Sox",
+  "prob_home": 0.2891,
+  "predicted": "New York Yankees",
+  "winner": "Boston Red Sox",
+  "score": "3\u20136",
+  "correct": false
  }
 ]
