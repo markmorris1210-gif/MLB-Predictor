@@ -1258,5 +1258,86 @@
   "winner": "Arizona Diamondbacks",
   "score": "2\u20138",
   "correct": true
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "New York Mets @ Toronto Blue Jays",
+  "prob_home": 0.8078,
+  "predicted": "Toronto Blue Jays",
+  "winner": "Toronto Blue Jays",
+  "score": "3\u20139",
+  "correct": true
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "Pittsburgh Pirates @ Philadelphia Phillies",
+  "prob_home": 0.5155,
+  "predicted": "Philadelphia Phillies",
+  "winner": "Philadelphia Phillies",
+  "score": "6\u201310",
+  "correct": true
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "St. Louis Cardinals @ Atlanta Braves",
+  "prob_home": 0.4799,
+  "predicted": "St. Louis Cardinals",
+  "winner": "Atlanta Braves",
+  "score": "1\u20135",
+  "correct": false
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "Tampa Bay Rays @ Kansas City Royals",
+  "prob_home": 0.5606,
+  "predicted": "Kansas City Royals",
+  "winner": "Tampa Bay Rays",
+  "score": "4\u20130",
+  "correct": false
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "Minnesota Twins @ Houston Astros",
+  "prob_home": 0.5322,
+  "predicted": "Houston Astros",
+  "winner": "Minnesota Twins",
+  "score": "8\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "Cincinnati Reds @ Milwaukee Brewers",
+  "prob_home": 0.5169,
+  "predicted": "Milwaukee Brewers",
+  "winner": "Milwaukee Brewers",
+  "score": "2\u20134",
+  "correct": true
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "Miami Marlins @ Colorado Rockies",
+  "prob_home": 0.4719,
+  "predicted": "Miami Marlins",
+  "winner": "Colorado Rockies",
+  "score": "3\u20136",
+  "correct": false
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "Los Angeles Dodgers @ Athletics",
+  "prob_home": 0.467,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Athletics",
+  "score": "1\u20137",
+  "correct": false
+ },
+ {
+  "date": "2026-07-01",
+  "matchup": "San Francisco Giants @ Arizona Diamondbacks",
+  "prob_home": 0.4739,
+  "predicted": "San Francisco Giants",
+  "winner": "San Francisco Giants",
+  "score": "6\u20134",
+  "correct": true
  }
 ]
