@@ -1,37 +1,28 @@
 {
- "date": "2026-07-07",
+ "date": "2026-07-08",
  "games": [
   {
-   "away": "Milwaukee Brewers",
-   "away_abbr": "MIL",
-   "away_score": 4,
-   "home": "St. Louis Cardinals",
-   "home_abbr": "STL",
-   "home_score": 3,
-   "winner": "MIL"
-  },
-  {
-   "away": "Milwaukee Brewers",
-   "away_abbr": "MIL",
+   "away": "Toronto Blue Jays",
+   "away_abbr": "TOR",
    "away_score": 10,
-   "home": "St. Louis Cardinals",
-   "home_abbr": "STL",
-   "home_score": 2,
-   "winner": "MIL"
+   "home": "San Francisco Giants",
+   "home_abbr": "SF",
+   "home_score": 0,
+   "winner": "TOR"
   },
   {
    "away": "Chicago Cubs",
    "away_abbr": "CHC",
-   "away_score": 5,
+   "away_score": 9,
    "home": "Baltimore Orioles",
    "home_abbr": "BAL",
-   "home_score": 2,
+   "home_score": 7,
    "winner": "CHC"
   },
   {
    "away": "Athletics",
    "away_abbr": "ATH",
-   "away_score": 2,
+   "away_score": 1,
    "home": "Detroit Tigers",
    "home_abbr": "DET",
    "home_score": 6,
@@ -40,110 +31,110 @@
   {
    "away": "Atlanta Braves",
    "away_abbr": "ATL",
-   "away_score": 4,
+   "away_score": 3,
    "home": "Pittsburgh Pirates",
    "home_abbr": "PIT",
-   "home_score": 12,
-   "winner": "PIT"
+   "home_score": 0,
+   "winner": "ATL"
   },
   {
    "away": "Seattle Mariners",
    "away_abbr": "SEA",
-   "away_score": 5,
+   "away_score": 0,
    "home": "Miami Marlins",
    "home_abbr": "MIA",
-   "home_score": 6,
+   "home_score": 2,
    "winner": "MIA"
   },
   {
    "away": "New York Yankees",
    "away_abbr": "NYY",
-   "away_score": 4,
+   "away_score": 0,
    "home": "Tampa Bay Rays",
    "home_abbr": "TB",
-   "home_score": 6,
+   "home_score": 3,
    "winner": "TB"
   },
   {
    "away": "Houston Astros",
    "away_abbr": "HOU",
-   "away_score": 6,
+   "away_score": 2,
    "home": "Washington Nationals",
    "home_abbr": "WSH",
-   "home_score": 3,
-   "winner": "HOU"
+   "home_score": 8,
+   "winner": "WSH"
   },
   {
    "away": "Kansas City Royals",
    "away_abbr": "KC",
-   "away_score": 16,
+   "away_score": 2,
    "home": "New York Mets",
    "home_abbr": "NYM",
-   "home_score": 12,
-   "winner": "KC"
+   "home_score": 6,
+   "winner": "NYM"
   },
   {
    "away": "Philadelphia Phillies",
    "away_abbr": "PHI",
-   "away_score": 4,
+   "away_score": 5,
    "home": "Cincinnati Reds",
    "home_abbr": "CIN",
-   "home_score": 1,
-   "winner": "PHI"
+   "home_score": 11,
+   "winner": "CIN"
   },
   {
    "away": "Cleveland Guardians",
    "away_abbr": "CLE",
-   "away_score": 1,
+   "away_score": 5,
    "home": "Minnesota Twins",
    "home_abbr": "MIN",
-   "home_score": 3,
+   "home_score": 6,
    "winner": "MIN"
   },
   {
    "away": "Boston Red Sox",
    "away_abbr": "BOS",
-   "away_score": 8,
+   "away_score": 5,
    "home": "Chicago White Sox",
    "home_abbr": "CWS",
-   "home_score": 1,
+   "home_score": 0,
    "winner": "BOS"
+  },
+  {
+   "away": "Milwaukee Brewers",
+   "away_abbr": "MIL",
+   "away_score": 1,
+   "home": "St. Louis Cardinals",
+   "home_abbr": "STL",
+   "home_score": 5,
+   "winner": "STL"
   },
   {
    "away": "Los Angeles Angels",
    "away_abbr": "LAA",
-   "away_score": 3,
+   "away_score": 13,
    "home": "Texas Rangers",
    "home_abbr": "TEX",
-   "home_score": 8,
-   "winner": "TEX"
-  },
-  {
-   "away": "Arizona Diamondbacks",
-   "away_abbr": "AZ",
-   "away_score": 1,
-   "home": "San Diego Padres",
-   "home_abbr": "SD",
-   "home_score": 4,
-   "winner": "SD"
-  },
-  {
-   "away": "Toronto Blue Jays",
-   "away_abbr": "TOR",
-   "away_score": 9,
-   "home": "San Francisco Giants",
-   "home_abbr": "SF",
-   "home_score": 3,
-   "winner": "TOR"
+   "home_score": 1,
+   "winner": "LAA"
   },
   {
    "away": "Colorado Rockies",
    "away_abbr": "COL",
-   "away_score": 4,
+   "away_score": 3,
    "home": "Los Angeles Dodgers",
    "home_abbr": "LAD",
-   "home_score": 3,
-   "winner": "COL"
+   "home_score": 4,
+   "winner": "LAD"
+  },
+  {
+   "away": "Arizona Diamondbacks",
+   "away_abbr": "AZ",
+   "away_score": 4,
+   "home": "San Diego Padres",
+   "home_abbr": "SD",
+   "home_score": 10,
+   "winner": "SD"
   }
  ]
 }
