@@ -1,5 +1,64 @@
 {
- "generated": "2026-07-15",
- "slate_date": "2026-07-15",
- "games": []
+ "generated": "2026-07-16",
+ "slate_date": "2026-07-16",
+ "games": [
+  {
+   "game_pk": 823440,
+   "date": "2026-07-16",
+   "game_time": "2026-07-16T23:10:00Z",
+   "venue": "Citizens Bank Park",
+   "home": "Philadelphia Phillies",
+   "home_abbr": "PHI",
+   "away": "New York Mets",
+   "away_abbr": "NYM",
+   "home_pitcher": "Aaron Nola",
+   "away_pitcher": "Christian Scott",
+   "prob_home": 0.6159,
+   "pick": "Philadelphia Phillies",
+   "confidence": 0.6159,
+   "ml_weight": 1.0,
+   "features": {
+    "sp_fip_diff": 0.5299999999999994,
+    "sp_whip_diff": 0.17999999999999994,
+    "sp_k_rate_diff": -0.048000000000000015,
+    "sp_last5_fip_diff": 0.6200000000000001,
+    "bullpen_score_diff": 18.400000000000006,
+    "ops_14d_diff": -0.14700000000000002,
+    "ops_vs_hand_diff": 0.03599999999999992,
+    "rpg_14d_diff": -2.1,
+    "home_field": 1,
+    "park_factor": 102
+   },
+   "detail_reasoning": {
+    "summary": "The model gives the Philadelphia Phillies a 62% win probability. This forecast is 100% machine-learned (trained on 1377 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "factors": [
+     {
+      "factor": "Starting pitching",
+      "lean": "New York Mets",
+      "text": "Christian Scott holds a clear FIP edge (4.68 vs 4.15), with WHIPs of 1.48 / 1.30 and K rates of 23.1% / 27.9%."
+     },
+     {
+      "factor": "Recent form (last 5 starts)",
+      "lean": "New York Mets",
+      "text": "Over their last five starts the blended ERA/FIP marks are 5.04 (home) vs 4.42 (away) \u2014 a clear edge in current form for the New York Mets."
+     },
+     {
+      "factor": "Bullpen availability score",
+      "lean": "Philadelphia Phillies",
+      "text": "Bullpen Availability Scores: 96 vs 78 (quality FIP 3.16/3.98, relief IP last 3 days 0.0/0.0, closer available True/True)."
+     },
+     {
+      "factor": "Offense vs. starter handedness",
+      "lean": "Philadelphia Phillies",
+      "text": "Against a righty starter, the Philadelphia Phillies OPS split vs the New York Mets split shows a clear edge for the Philadelphia Phillies; 14-game OPS runs 0.628 vs 0.775."
+     },
+     {
+      "factor": "Context",
+      "lean": "Philadelphia Phillies",
+      "text": "Philadelphia Phillies get home field at Citizens Bank Park (park factor 102, roughly neutral). Home teams win about 53.5% of MLB games."
+     }
+    ]
+   }
+  }
+ ]
 }

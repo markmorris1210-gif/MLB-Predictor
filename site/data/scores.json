@@ -1,14 +1,4 @@
 {
- "date": "2026-07-14",
- "games": [
-  {
-   "away": "American League All-Stars",
-   "away_abbr": "AL",
-   "away_score": 4,
-   "home": "National League All-Stars",
-   "home_abbr": "NL",
-   "home_score": 0,
-   "winner": "AL"
-  }
- ]
+ "date": "2026-07-15",
+ "games": []
 }
