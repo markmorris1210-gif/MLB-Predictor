@@ -1,4 +1,14 @@
 {
- "date": "2026-07-15",
- "games": []
+ "date": "2026-07-16",
+ "games": [
+  {
+   "away": "New York Mets",
+   "away_abbr": "NYM",
+   "away_score": 4,
+   "home": "Philadelphia Phillies",
+   "home_abbr": "PHI",
+   "home_score": 1,
+   "winner": "NYM"
+  }
+ ]
 }

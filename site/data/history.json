@@ -2590,5 +2590,14 @@
   "winner": "San Diego Padres",
   "score": "4\u20135",
   "correct": true
+ },
+ {
+  "date": "2026-07-16",
+  "matchup": "New York Mets @ Philadelphia Phillies",
+  "prob_home": 0.6159,
+  "predicted": "Philadelphia Phillies",
+  "winner": "New York Mets",
+  "score": "4\u20131",
+  "correct": false
  }
 ]
