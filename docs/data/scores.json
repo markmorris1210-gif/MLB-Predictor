@@ -1,14 +1,131 @@
 {
- "date": "2026-07-16",
+ "date": "2026-07-17",
  "games": [
   {
-   "away": "New York Mets",
-   "away_abbr": "NYM",
-   "away_score": 4,
-   "home": "Philadelphia Phillies",
-   "home_abbr": "PHI",
+   "away": "Tampa Bay Rays",
+   "away_abbr": "TB",
+   "away_score": 0,
+   "home": "Boston Red Sox",
+   "home_abbr": "BOS",
+   "home_score": 10,
+   "winner": "BOS"
+  },
+  {
+   "away": "Tampa Bay Rays",
+   "away_abbr": "TB",
+   "away_score": 3,
+   "home": "Boston Red Sox",
+   "home_abbr": "BOS",
+   "home_score": 5,
+   "winner": "BOS"
+  },
+  {
+   "away": "Los Angeles Dodgers",
+   "away_abbr": "LAD",
+   "away_score": 2,
+   "home": "New York Yankees",
+   "home_abbr": "NYY",
    "home_score": 1,
-   "winner": "NYM"
+   "winner": "LAD"
+  },
+  {
+   "away": "Texas Rangers",
+   "away_abbr": "TEX",
+   "away_score": 1,
+   "home": "Atlanta Braves",
+   "home_abbr": "ATL",
+   "home_score": 15,
+   "winner": "ATL"
+  },
+  {
+   "away": "Chicago White Sox",
+   "away_abbr": "CWS",
+   "away_score": 12,
+   "home": "Toronto Blue Jays",
+   "home_abbr": "TOR",
+   "home_score": 4,
+   "winner": "CWS"
+  },
+  {
+   "away": "Miami Marlins",
+   "away_abbr": "MIA",
+   "away_score": 1,
+   "home": "Milwaukee Brewers",
+   "home_abbr": "MIL",
+   "home_score": 2,
+   "winner": "MIL"
+  },
+  {
+   "away": "Minnesota Twins",
+   "away_abbr": "MIN",
+   "away_score": 5,
+   "home": "Chicago Cubs",
+   "home_abbr": "CHC",
+   "home_score": 2,
+   "winner": "MIN"
+  },
+  {
+   "away": "Baltimore Orioles",
+   "away_abbr": "BAL",
+   "away_score": 3,
+   "home": "Houston Astros",
+   "home_abbr": "HOU",
+   "home_score": 2,
+   "winner": "BAL"
+  },
+  {
+   "away": "San Diego Padres",
+   "away_abbr": "SD",
+   "away_score": 6,
+   "home": "Kansas City Royals",
+   "home_abbr": "KC",
+   "home_score": 7,
+   "winner": "KC"
+  },
+  {
+   "away": "Cincinnati Reds",
+   "away_abbr": "CIN",
+   "away_score": 7,
+   "home": "Colorado Rockies",
+   "home_abbr": "COL",
+   "home_score": 2,
+   "winner": "CIN"
+  },
+  {
+   "away": "Detroit Tigers",
+   "away_abbr": "DET",
+   "away_score": 2,
+   "home": "Los Angeles Angels",
+   "home_abbr": "LAA",
+   "home_score": 1,
+   "winner": "DET"
+  },
+  {
+   "away": "Washington Nationals",
+   "away_abbr": "WSH",
+   "away_score": 23,
+   "home": "Athletics",
+   "home_abbr": "ATH",
+   "home_score": 4,
+   "winner": "WSH"
+  },
+  {
+   "away": "St. Louis Cardinals",
+   "away_abbr": "STL",
+   "away_score": 5,
+   "home": "Arizona Diamondbacks",
+   "home_abbr": "AZ",
+   "home_score": 4,
+   "winner": "STL"
+  },
+  {
+   "away": "San Francisco Giants",
+   "away_abbr": "SF",
+   "away_score": 7,
+   "home": "Seattle Mariners",
+   "home_abbr": "SEA",
+   "home_score": 0,
+   "winner": "SF"
   }
  ]
 }
