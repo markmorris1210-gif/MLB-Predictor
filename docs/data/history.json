@@ -2860,5 +2860,149 @@
   "winner": "Detroit Tigers",
   "score": "7\u20130",
   "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Chicago White Sox @ Toronto Blue Jays",
+  "prob_home": 0.5605,
+  "predicted": "Toronto Blue Jays",
+  "winner": "Chicago White Sox",
+  "score": "3\u20130",
+  "correct": false
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Los Angeles Dodgers @ New York Yankees",
+  "prob_home": 0.4789,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Los Angeles Dodgers",
+  "score": "8\u20132",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Los Angeles Dodgers @ New York Yankees",
+  "prob_home": 0.5226,
+  "predicted": "New York Yankees",
+  "winner": "New York Yankees",
+  "score": "1\u20132",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Tampa Bay Rays @ Boston Red Sox",
+  "prob_home": 0.5413,
+  "predicted": "Boston Red Sox",
+  "winner": "Boston Red Sox",
+  "score": "1\u20136",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "New York Mets @ Philadelphia Phillies",
+  "prob_home": 0.5958,
+  "predicted": "Philadelphia Phillies",
+  "winner": "New York Mets",
+  "score": "6\u20131",
+  "correct": false
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Texas Rangers @ Atlanta Braves",
+  "prob_home": 0.5708,
+  "predicted": "Atlanta Braves",
+  "winner": "Atlanta Braves",
+  "score": "5\u20138",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
+  "prob_home": 0.6092,
+  "predicted": "Cleveland Guardians",
+  "winner": "Pittsburgh Pirates",
+  "score": "7\u20131",
+  "correct": false
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Baltimore Orioles @ Houston Astros",
+  "prob_home": 0.5091,
+  "predicted": "Houston Astros",
+  "winner": "Baltimore Orioles",
+  "score": "5\u20132",
+  "correct": false
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "San Diego Padres @ Kansas City Royals",
+  "prob_home": 0.5228,
+  "predicted": "Kansas City Royals",
+  "winner": "San Diego Padres",
+  "score": "19\u20132",
+  "correct": false
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Miami Marlins @ Milwaukee Brewers",
+  "prob_home": 0.5438,
+  "predicted": "Milwaukee Brewers",
+  "winner": "Milwaukee Brewers",
+  "score": "1\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Minnesota Twins @ Chicago Cubs",
+  "prob_home": 0.5161,
+  "predicted": "Chicago Cubs",
+  "winner": "Chicago Cubs",
+  "score": "1\u201310",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Cincinnati Reds @ Colorado Rockies",
+  "prob_home": 0.5316,
+  "predicted": "Colorado Rockies",
+  "winner": "Cincinnati Reds",
+  "score": "9\u20136",
+  "correct": false
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Washington Nationals @ Athletics",
+  "prob_home": 0.4323,
+  "predicted": "Washington Nationals",
+  "winner": "Washington Nationals",
+  "score": "5\u20132",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "Detroit Tigers @ Los Angeles Angels",
+  "prob_home": 0.3027,
+  "predicted": "Detroit Tigers",
+  "winner": "Los Angeles Angels",
+  "score": "2\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "San Francisco Giants @ Seattle Mariners",
+  "prob_home": 0.6006,
+  "predicted": "Seattle Mariners",
+  "winner": "Seattle Mariners",
+  "score": "3\u20136",
+  "correct": true
+ },
+ {
+  "date": "2026-07-19",
+  "matchup": "St. Louis Cardinals @ Arizona Diamondbacks",
+  "prob_home": 0.4978,
+  "predicted": "St. Louis Cardinals",
+  "winner": "Arizona Diamondbacks",
+  "score": "7\u20138",
+  "correct": false
  }
 ]
