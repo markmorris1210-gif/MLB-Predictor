@@ -1,172 +1,172 @@
 {
- "generated": "2026-07-22",
- "slate_date": "2026-07-22",
+ "generated": "2026-07-23",
+ "slate_date": "2026-07-23",
  "games": [
   {
-   "game_pk": 823110,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T19:40:00Z",
-   "venue": "T-Mobile Park",
-   "home": "Seattle Mariners",
-   "home_abbr": "SEA",
-   "away": "Cincinnati Reds",
-   "away_abbr": "CIN",
-   "home_pitcher": "Emerson Hancock",
-   "away_pitcher": "Brady Singer",
-   "prob_home": 0.8137,
-   "pick": "Seattle Mariners",
-   "confidence": 0.8137,
+   "game_pk": 824247,
+   "date": "2026-07-23",
+   "game_time": "2026-07-23T22:40:00Z",
+   "venue": "Comerica Park",
+   "home": "Detroit Tigers",
+   "home_abbr": "DET",
+   "away": "Kansas City Royals",
+   "away_abbr": "KC",
+   "home_pitcher": "Troy Melton",
+   "away_pitcher": "Randy Dobnak",
+   "prob_home": 0.647,
+   "pick": "Detroit Tigers",
+   "confidence": 0.647,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -1.7400000000000002,
-    "sp_whip_diff": -0.3899999999999999,
-    "sp_k_rate_diff": 0.04799999999999999,
-    "sp_last5_fip_diff": -1.1799999999999997,
-    "bullpen_score_diff": 30.0,
-    "ops_14d_diff": -0.19499999999999995,
-    "ops_vs_hand_diff": 0.04599999999999993,
-    "rpg_14d_diff": -1.0,
+    "sp_fip_diff": -1.8099999999999996,
+    "sp_whip_diff": -0.63,
+    "sp_k_rate_diff": 0.12299999999999998,
+    "sp_last5_fip_diff": -3.04,
+    "bullpen_score_diff": 8.399999999999999,
+    "ops_14d_diff": 0.0030000000000000027,
+    "ops_vs_hand_diff": -0.0030000000000000027,
+    "rpg_14d_diff": 0.6000000000000001,
     "home_field": 1,
-    "park_factor": 92
+    "park_factor": 98
    },
    "detail_reasoning": {
-    "summary": "The model gives the Seattle Mariners a 81% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Detroit Tigers a 65% win probability. This forecast is 100% machine-learned (trained on 1467 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
-      "lean": "Seattle Mariners",
-      "text": "Emerson Hancock holds a major FIP edge (3.71 vs 5.45), with WHIPs of 1.01 / 1.40 and K rates of 24.1% / 19.3%."
+      "lean": "Detroit Tigers",
+      "text": "Troy Melton holds a major FIP edge (3.91 vs 5.72), with WHIPs of 0.87 / 1.50 and K rates of 23.6% / 11.3%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "Seattle Mariners",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.88 (home) vs 4.06 (away) \u2014 a major edge in current form for the Seattle Mariners."
+      "lean": "Detroit Tigers",
+      "text": "Over their last five starts the blended ERA/FIP marks are 1.76 (home) vs 4.80 (away) \u2014 a major edge in current form for the Detroit Tigers."
      },
      {
       "factor": "Bullpen availability score",
-      "lean": "Seattle Mariners",
-      "text": "Bullpen Availability Scores: 74 vs 44 (quality FIP 3.43/4.67, relief IP last 3 days 8.0/9.0, closer available True/True)."
+      "lean": "Detroit Tigers",
+      "text": "Bullpen Availability Scores: 53 vs 45 (quality FIP 3.96/4.73, relief IP last 3 days 17.0/7.7, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
-      "lean": "Seattle Mariners",
-      "text": "Against a righty starter, the Seattle Mariners OPS split vs the Cincinnati Reds split shows a clear edge for the Seattle Mariners; 14-game OPS runs 0.637 vs 0.832."
+      "lean": "Kansas City Royals",
+      "text": "Against a righty starter, the Detroit Tigers OPS split vs the Kansas City Royals split shows a slight edge for the Kansas City Royals; 14-game OPS runs 0.704 vs 0.701."
      },
      {
       "factor": "Context",
-      "lean": "Seattle Mariners",
-      "text": "Seattle Mariners get home field at T-Mobile Park (park factor 92, pitcher-friendly). Home teams win about 53.5% of MLB games."
+      "lean": "Detroit Tigers",
+      "text": "Detroit Tigers get home field at Comerica Park (park factor 98, roughly neutral). Home teams win about 53.5% of MLB games."
      }
     ]
    }
   },
   {
-   "game_pk": 824327,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T19:10:00Z",
-   "venue": "Coors Field",
-   "home": "Colorado Rockies",
-   "home_abbr": "COL",
-   "away": "Washington Nationals",
-   "away_abbr": "WSH",
-   "home_pitcher": "Gabriel Hughes",
-   "away_pitcher": "Cade Cavalli",
-   "prob_home": 0.7171,
-   "pick": "Colorado Rockies",
-   "confidence": 0.7171,
+   "game_pk": 823042,
+   "date": "2026-07-23",
+   "game_time": "2026-07-23T21:15:00Z",
+   "venue": "Busch Stadium",
+   "home": "St. Louis Cardinals",
+   "home_abbr": "STL",
+   "away": "Arizona Diamondbacks",
+   "away_abbr": "AZ",
+   "home_pitcher": "Michael McGreevy",
+   "away_pitcher": "Brandon Pfaadt",
+   "prob_home": 0.5915,
+   "pick": "St. Louis Cardinals",
+   "confidence": 0.5915,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -1.3000000000000003,
-    "sp_whip_diff": -0.26,
-    "sp_k_rate_diff": 0.007000000000000006,
-    "sp_last5_fip_diff": 0.009999999999999787,
-    "bullpen_score_diff": -10.7,
-    "ops_14d_diff": -0.18499999999999994,
-    "ops_vs_hand_diff": 0.028000000000000025,
-    "rpg_14d_diff": -2.46,
+    "sp_fip_diff": -0.34999999999999964,
+    "sp_whip_diff": -0.20999999999999996,
+    "sp_k_rate_diff": -0.0069999999999999785,
+    "sp_last5_fip_diff": -0.08999999999999986,
+    "bullpen_score_diff": -14.800000000000004,
+    "ops_14d_diff": -0.2699999999999999,
+    "ops_vs_hand_diff": 0.06599999999999995,
+    "rpg_14d_diff": -3.3999999999999995,
     "home_field": 1,
-    "park_factor": 112
+    "park_factor": 99
    },
    "detail_reasoning": {
-    "summary": "The model gives the Colorado Rockies a 72% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the St. Louis Cardinals a 59% win probability. This forecast is 100% machine-learned (trained on 1467 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
-      "lean": "Colorado Rockies",
-      "text": "Gabriel Hughes holds a major FIP edge (1.94 vs 3.24), with WHIPs of 1.04 / 1.30 and K rates of 26.9% / 26.2%."
+      "lean": "St. Louis Cardinals",
+      "text": "Michael McGreevy holds a clear FIP edge (4.19 vs 4.54), with WHIPs of 1.10 / 1.31 and K rates of 16.6% / 17.3%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "Washington Nationals",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.38 (home) vs 2.37 (away) \u2014 a slight edge in current form for the Washington Nationals."
+      "lean": "St. Louis Cardinals",
+      "text": "Over their last five starts the blended ERA/FIP marks are 3.17 (home) vs 3.26 (away) \u2014 a slight edge in current form for the St. Louis Cardinals."
      },
      {
       "factor": "Bullpen availability score",
-      "lean": "Washington Nationals",
-      "text": "Bullpen Availability Scores: 28 vs 38 (quality FIP 4.30/4.62, relief IP last 3 days 15.0/13.0, closer available False/True)."
+      "lean": "Arizona Diamondbacks",
+      "text": "Bullpen Availability Scores: 50 vs 64 (quality FIP 4.50/3.47, relief IP last 3 days 8.0/13.3, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
-      "lean": "Colorado Rockies",
-      "text": "Against a righty starter, the Colorado Rockies OPS split vs the Washington Nationals split shows a clear edge for the Colorado Rockies; 14-game OPS runs 0.687 vs 0.872."
+      "lean": "St. Louis Cardinals",
+      "text": "Against a righty starter, the St. Louis Cardinals OPS split vs the Arizona Diamondbacks split shows a major edge for the St. Louis Cardinals; 14-game OPS runs 0.555 vs 0.825."
      },
      {
       "factor": "Context",
-      "lean": "Colorado Rockies",
-      "text": "Colorado Rockies get home field at Coors Field (park factor 112, hitter-friendly). Home teams win about 53.5% of MLB games."
+      "lean": "St. Louis Cardinals",
+      "text": "St. Louis Cardinals get home field at Busch Stadium (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
      }
     ]
    }
   },
   {
-   "game_pk": 822784,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T23:07:00Z",
+   "game_pk": 822785,
+   "date": "2026-07-23",
+   "game_time": "2026-07-23T19:07:00Z",
    "venue": "Rogers Centre",
    "home": "Toronto Blue Jays",
    "home_abbr": "TOR",
    "away": "Tampa Bay Rays",
    "away_abbr": "TB",
-   "home_pitcher": "Braydon Fisher",
-   "away_pitcher": "Griffin Jax",
-   "prob_home": 0.6542,
+   "home_pitcher": "Shane Bieber",
+   "away_pitcher": "Casey Legumina",
+   "prob_home": 0.5678,
    "pick": "Toronto Blue Jays",
-   "confidence": 0.6542,
+   "confidence": 0.5678,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -0.5999999999999996,
-    "sp_whip_diff": -0.13000000000000012,
-    "sp_k_rate_diff": 0.021999999999999992,
-    "sp_last5_fip_diff": -2.7299999999999995,
-    "bullpen_score_diff": 15.499999999999993,
-    "ops_14d_diff": -0.16100000000000003,
+    "sp_fip_diff": -0.5300000000000002,
+    "sp_whip_diff": 0.050000000000000044,
+    "sp_k_rate_diff": 0.05499999999999999,
+    "sp_last5_fip_diff": 0.4299999999999997,
+    "bullpen_score_diff": 14.899999999999999,
+    "ops_14d_diff": -0.21600000000000008,
     "ops_vs_hand_diff": -0.013000000000000012,
-    "rpg_14d_diff": -0.8599999999999999,
+    "rpg_14d_diff": -1.8400000000000003,
     "home_field": 1,
     "park_factor": 101
    },
    "detail_reasoning": {
-    "summary": "The model gives the Toronto Blue Jays a 65% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Toronto Blue Jays a 57% win probability. This forecast is 100% machine-learned (trained on 1467 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
       "lean": "Toronto Blue Jays",
-      "text": "Braydon Fisher holds a clear FIP edge (4.16 vs 4.76), with WHIPs of 1.18 / 1.31 and K rates of 25.0% / 22.8%."
+      "text": "Shane Bieber holds a clear FIP edge (4.10 vs 4.63), with WHIPs of 1.28 / 1.23 and K rates of 22.2% / 16.7%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "Toronto Blue Jays",
-      "text": "Over their last five starts the blended ERA/FIP marks are 1.49 (home) vs 4.22 (away) \u2014 a major edge in current form for the Toronto Blue Jays."
+      "lean": "Tampa Bay Rays",
+      "text": "Over their last five starts the blended ERA/FIP marks are 4.10 (home) vs 3.67 (away) \u2014 a clear edge in current form for the Tampa Bay Rays."
      },
      {
       "factor": "Bullpen availability score",
       "lean": "Toronto Blue Jays",
-      "text": "Bullpen Availability Scores: 73 vs 58 (quality FIP 3.11/3.96, relief IP last 3 days 11.7/10.0, closer available True/True)."
+      "text": "Bullpen Availability Scores: 72 vs 58 (quality FIP 3.11/3.96, relief IP last 3 days 16.3/10.0, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
       "lean": "Tampa Bay Rays",
-      "text": "Against a righty starter, the Toronto Blue Jays OPS split vs the Tampa Bay Rays split shows a slight edge for the Tampa Bay Rays; 14-game OPS runs 0.646 vs 0.807."
+      "text": "Against a righty starter, the Toronto Blue Jays OPS split vs the Tampa Bay Rays split shows a slight edge for the Tampa Bay Rays; 14-game OPS runs 0.596 vs 0.812."
      },
      {
       "factor": "Context",
@@ -177,750 +177,54 @@
    }
   },
   {
-   "game_pk": 823518,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T17:05:00Z",
-   "venue": "Yankee Stadium",
-   "home": "New York Yankees",
-   "home_abbr": "NYY",
-   "away": "Pittsburgh Pirates",
-   "away_abbr": "PIT",
-   "home_pitcher": "Gerrit Cole",
-   "away_pitcher": "Mitch Keller",
-   "prob_home": 0.6424,
-   "pick": "New York Yankees",
-   "confidence": 0.6424,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -0.05999999999999961,
-    "sp_whip_diff": -0.21999999999999997,
-    "sp_k_rate_diff": 0.07500000000000001,
-    "sp_last5_fip_diff": -2.41,
-    "bullpen_score_diff": -2.5,
-    "ops_14d_diff": -0.020000000000000018,
-    "ops_vs_hand_diff": -0.009000000000000008,
-    "rpg_14d_diff": -1.3399999999999999,
-    "home_field": 1,
-    "park_factor": 99
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the New York Yankees a 64% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "New York Yankees",
-      "text": "Gerrit Cole holds a slight FIP edge (3.96 vs 4.02), with WHIPs of 1.10 / 1.32 and K rates of 25.9% / 18.4%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "New York Yankees",
-      "text": "Over their last five starts the blended ERA/FIP marks are 3.92 (home) vs 6.33 (away) \u2014 a major edge in current form for the New York Yankees."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Pittsburgh Pirates",
-      "text": "Bullpen Availability Scores: 62 vs 64 (quality FIP 3.60/3.95, relief IP last 3 days 15.3/7.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Pittsburgh Pirates",
-      "text": "Against a righty starter, the New York Yankees OPS split vs the Pittsburgh Pirates split shows a slight edge for the Pittsburgh Pirates; 14-game OPS runs 0.773 vs 0.793."
-     },
-     {
-      "factor": "Context",
-      "lean": "New York Yankees",
-      "text": "New York Yankees get home field at Yankee Stadium (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 825055,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T19:40:00Z",
-   "venue": "Chase Field",
-   "home": "Arizona Diamondbacks",
-   "home_abbr": "AZ",
-   "away": "Athletics",
-   "away_abbr": "ATH",
-   "home_pitcher": "Merrill Kelly",
-   "away_pitcher": "Gage Jump",
-   "prob_home": 0.3951,
-   "pick": "Athletics",
-   "confidence": 0.6049,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": 3.3699999999999997,
-    "sp_whip_diff": 0.5,
-    "sp_k_rate_diff": -0.07600000000000001,
-    "sp_last5_fip_diff": 2.21,
-    "bullpen_score_diff": 27.400000000000006,
-    "ops_14d_diff": 0.031000000000000028,
-    "ops_vs_hand_diff": 0.018000000000000016,
-    "rpg_14d_diff": 2.0,
-    "home_field": 1,
-    "park_factor": 103
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Athletics a 60% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Athletics",
-      "text": "Gage Jump holds a major FIP edge (5.89 vs 2.52), with WHIPs of 1.49 / 0.99 and K rates of 14.4% / 22.0%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Athletics",
-      "text": "Over their last five starts the blended ERA/FIP marks are 4.66 (home) vs 2.45 (away) \u2014 a major edge in current form for the Athletics."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Arizona Diamondbacks",
-      "text": "Bullpen Availability Scores: 64 vs 37 (quality FIP 3.47/3.89, relief IP last 3 days 16.7/13.0, closer available True/False)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Arizona Diamondbacks",
-      "text": "Against a lefty starter, the Arizona Diamondbacks OPS split vs the Athletics split shows a clear edge for the Arizona Diamondbacks; 14-game OPS runs 0.740 vs 0.709."
-     },
-     {
-      "factor": "Context",
-      "lean": "Arizona Diamondbacks",
-      "text": "Arizona Diamondbacks get home field at Chase Field (park factor 103, hitter-friendly). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 823438,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T22:40:00Z",
-   "venue": "Citizens Bank Park",
-   "home": "Philadelphia Phillies",
-   "home_abbr": "PHI",
-   "away": "Los Angeles Dodgers",
-   "away_abbr": "LAD",
-   "home_pitcher": "Aaron Nola",
-   "away_pitcher": "Eric Lauer",
-   "prob_home": 0.4232,
-   "pick": "Los Angeles Dodgers",
-   "confidence": 0.5768,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -2.3000000000000007,
-    "sp_whip_diff": -0.010000000000000009,
-    "sp_k_rate_diff": 0.07100000000000001,
-    "sp_last5_fip_diff": 0.08000000000000007,
-    "bullpen_score_diff": -5.699999999999996,
-    "ops_14d_diff": 0.08199999999999996,
-    "ops_vs_hand_diff": -0.134,
-    "rpg_14d_diff": 0.040000000000000036,
-    "home_field": 1,
-    "park_factor": 102
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Los Angeles Dodgers a 58% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Philadelphia Phillies",
-      "text": "Aaron Nola holds a major FIP edge (4.68 vs 6.98), with WHIPs of 1.48 / 1.49 and K rates of 23.1% / 16.0%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Los Angeles Dodgers",
-      "text": "Over their last five starts the blended ERA/FIP marks are 5.04 (home) vs 4.96 (away) \u2014 a slight edge in current form for the Los Angeles Dodgers."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Los Angeles Dodgers",
-      "text": "Bullpen Availability Scores: 62 vs 68 (quality FIP 3.16/3.32, relief IP last 3 days 10.7/12.3, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Los Angeles Dodgers",
-      "text": "Against a lefty starter, the Philadelphia Phillies OPS split vs the Los Angeles Dodgers split shows a major edge for the Los Angeles Dodgers; 14-game OPS runs 0.690 vs 0.608."
-     },
-     {
-      "factor": "Context",
-      "lean": "Philadelphia Phillies",
-      "text": "Philadelphia Phillies get home field at Citizens Bank Park (park factor 102, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 824004,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T20:07:00Z",
-   "venue": "Angel Stadium",
-   "home": "Los Angeles Angels",
-   "home_abbr": "LAA",
-   "away": "St. Louis Cardinals",
-   "away_abbr": "STL",
-   "home_pitcher": "Reid Detmers",
-   "away_pitcher": "Hunter Dobbins",
-   "prob_home": 0.5622,
-   "pick": "Los Angeles Angels",
-   "confidence": 0.5622,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -0.9199999999999999,
-    "sp_whip_diff": -0.2699999999999998,
-    "sp_k_rate_diff": 0.03200000000000003,
-    "sp_last5_fip_diff": -0.2599999999999998,
-    "bullpen_score_diff": -2.8999999999999986,
-    "ops_14d_diff": 0.133,
-    "ops_vs_hand_diff": -0.0010000000000000009,
-    "rpg_14d_diff": 0.3999999999999999,
-    "home_field": 1,
-    "park_factor": 101
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Los Angeles Angels a 56% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Los Angeles Angels",
-      "text": "Reid Detmers holds a major FIP edge (3.26 vs 4.18), with WHIPs of 1.12 / 1.39 and K rates of 27.4% / 24.2%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Los Angeles Angels",
-      "text": "Over their last five starts the blended ERA/FIP marks are 5.16 (home) vs 5.42 (away) \u2014 a slight edge in current form for the Los Angeles Angels."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "St. Louis Cardinals",
-      "text": "Bullpen Availability Scores: 45 vs 48 (quality FIP 4.63/4.50, relief IP last 3 days 9.0/9.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "St. Louis Cardinals",
-      "text": "Against a righty starter, the Los Angeles Angels OPS split vs the St. Louis Cardinals split shows a slight edge for the St. Louis Cardinals; 14-game OPS runs 0.720 vs 0.587."
-     },
-     {
-      "factor": "Context",
-      "lean": "Los Angeles Angels",
-      "text": "Los Angeles Angels get home field at Angel Stadium (park factor 101, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 824083,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T18:10:00Z",
-   "venue": "Kauffman Stadium",
-   "home": "Kansas City Royals",
-   "home_abbr": "KC",
-   "away": "San Francisco Giants",
-   "away_abbr": "SF",
-   "home_pitcher": "Seth Lugo",
-   "away_pitcher": "Landen Roupp",
-   "prob_home": 0.5594,
-   "pick": "Kansas City Royals",
-   "confidence": 0.5594,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": 0.9599999999999995,
-    "sp_whip_diff": 0.13000000000000012,
-    "sp_k_rate_diff": -0.059,
-    "sp_last5_fip_diff": 1.2300000000000004,
-    "bullpen_score_diff": 13.899999999999999,
-    "ops_14d_diff": 0.029999999999999916,
-    "ops_vs_hand_diff": -0.016000000000000014,
-    "rpg_14d_diff": -0.30000000000000027,
-    "home_field": 1,
-    "park_factor": 104
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Kansas City Royals a 56% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "San Francisco Giants",
-      "text": "Landen Roupp holds a major FIP edge (4.31 vs 3.35), with WHIPs of 1.37 / 1.24 and K rates of 18.8% / 24.7%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "San Francisco Giants",
-      "text": "Over their last five starts the blended ERA/FIP marks are 4.98 (home) vs 3.75 (away) \u2014 a major edge in current form for the San Francisco Giants."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Kansas City Royals",
-      "text": "Bullpen Availability Scores: 41 vs 27 (quality FIP 4.73/4.40, relief IP last 3 days 9.7/11.3, closer available True/False)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "San Francisco Giants",
-      "text": "Against a righty starter, the Kansas City Royals OPS split vs the San Francisco Giants split shows a slight edge for the San Francisco Giants; 14-game OPS runs 0.693 vs 0.663."
-     },
-     {
-      "factor": "Context",
-      "lean": "Kansas City Royals",
-      "text": "Kansas City Royals get home field at Kauffman Stadium (park factor 104, hitter-friendly). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 824650,
-   "date": "2026-07-22",
-   "game_time": "2026-07-23T00:10:00Z",
-   "venue": "Wrigley Field",
-   "home": "Chicago Cubs",
-   "home_abbr": "CHC",
-   "away": "Detroit Tigers",
-   "away_abbr": "DET",
-   "home_pitcher": "Colin Rea",
-   "away_pitcher": "Keider Montero",
-   "prob_home": 0.4414,
-   "pick": "Detroit Tigers",
-   "confidence": 0.5586,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": 1.2199999999999998,
-    "sp_whip_diff": 0.43999999999999995,
-    "sp_k_rate_diff": -0.0030000000000000027,
-    "sp_last5_fip_diff": 0.98,
-    "bullpen_score_diff": -1.5,
-    "ops_14d_diff": 0.11099999999999999,
-    "ops_vs_hand_diff": 0.013000000000000012,
-    "rpg_14d_diff": 1.6000000000000005,
-    "home_field": 1,
-    "park_factor": 100
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Detroit Tigers a 56% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Detroit Tigers",
-      "text": "Keider Montero holds a major FIP edge (4.89 vs 3.67), with WHIPs of 1.42 / 0.98 and K rates of 17.2% / 17.5%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Detroit Tigers",
-      "text": "Over their last five starts the blended ERA/FIP marks are 3.69 (home) vs 2.71 (away) \u2014 a major edge in current form for the Detroit Tigers."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Detroit Tigers",
-      "text": "Bullpen Availability Scores: 52 vs 53 (quality FIP 4.21/3.96, relief IP last 3 days 10.0/18.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Chicago Cubs",
-      "text": "Against a righty starter, the Chicago Cubs OPS split vs the Detroit Tigers split shows a slight edge for the Chicago Cubs; 14-game OPS runs 0.815 vs 0.704."
-     },
-     {
-      "factor": "Context",
-      "lean": "Chicago Cubs",
-      "text": "Chicago Cubs get home field at Wrigley Field (park factor 100, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 823519,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T23:05:00Z",
-   "venue": "Yankee Stadium",
-   "home": "New York Yankees",
-   "home_abbr": "NYY",
-   "away": "Pittsburgh Pirates",
-   "away_abbr": "PIT",
-   "home_pitcher": "Max Fried",
-   "away_pitcher": "Bubba Chandler",
-   "prob_home": 0.5575,
-   "pick": "New York Yankees",
-   "confidence": 0.5575,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -1.87,
-    "sp_whip_diff": -0.43999999999999995,
-    "sp_k_rate_diff": 0.005999999999999978,
-    "sp_last5_fip_diff": -1.83,
-    "bullpen_score_diff": -2.5,
-    "ops_14d_diff": -0.020000000000000018,
-    "ops_vs_hand_diff": 0.07399999999999995,
-    "rpg_14d_diff": -1.3399999999999999,
-    "home_field": 1,
-    "park_factor": 99
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the New York Yankees a 56% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "New York Yankees",
-      "text": "Max Fried holds a major FIP edge (2.76 vs 4.63), with WHIPs of 1.01 / 1.45 and K rates of 20.8% / 20.2%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "New York Yankees",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.95 (home) vs 4.78 (away) \u2014 a major edge in current form for the New York Yankees."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Pittsburgh Pirates",
-      "text": "Bullpen Availability Scores: 62 vs 64 (quality FIP 3.60/3.95, relief IP last 3 days 15.3/7.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "New York Yankees",
-      "text": "Against a righty starter, the New York Yankees OPS split vs the Pittsburgh Pirates split shows a major edge for the New York Yankees; 14-game OPS runs 0.773 vs 0.793."
-     },
-     {
-      "factor": "Context",
-      "lean": "New York Yankees",
-      "text": "New York Yankees get home field at Yankee Stadium (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 822873,
-   "date": "2026-07-22",
-   "game_time": "2026-07-23T00:05:00Z",
-   "venue": "Globe Life Field",
-   "home": "Texas Rangers",
-   "home_abbr": "TEX",
-   "away": "Chicago White Sox",
-   "away_abbr": "CWS",
-   "home_pitcher": "Tyler Alexander",
-   "away_pitcher": "Anthony Kay",
-   "prob_home": 0.446,
-   "pick": "Chicago White Sox",
-   "confidence": 0.554,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -2.2399999999999998,
-    "sp_whip_diff": -0.06000000000000005,
-    "sp_k_rate_diff": 0.032,
-    "sp_last5_fip_diff": -3.0300000000000002,
-    "bullpen_score_diff": 5.299999999999997,
-    "ops_14d_diff": 0.1309999999999999,
-    "ops_vs_hand_diff": -0.07400000000000007,
-    "rpg_14d_diff": 0.0,
-    "home_field": 1,
-    "park_factor": 102
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Chicago White Sox a 55% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Texas Rangers",
-      "text": "Tyler Alexander holds a major FIP edge (2.89 vs 5.13), with WHIPs of 1.31 / 1.37 and K rates of 21.2% / 18.0%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Texas Rangers",
-      "text": "Over their last five starts the blended ERA/FIP marks are 0.74 (home) vs 3.77 (away) \u2014 a major edge in current form for the Texas Rangers."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Texas Rangers",
-      "text": "Bullpen Availability Scores: 60 vs 55 (quality FIP 3.73/3.93, relief IP last 3 days 11.3/11.7, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Chicago White Sox",
-      "text": "Against a lefty starter, the Texas Rangers OPS split vs the Chicago White Sox split shows a major edge for the Chicago White Sox; 14-game OPS runs 0.815 vs 0.684."
-     },
-     {
-      "factor": "Context",
-      "lean": "Texas Rangers",
-      "text": "Texas Rangers get home field at Globe Life Field (park factor 102, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 824732,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T23:10:00Z",
-   "venue": "Fenway Park",
-   "home": "Boston Red Sox",
-   "home_abbr": "BOS",
-   "away": "Baltimore Orioles",
-   "away_abbr": "BAL",
-   "home_pitcher": "TBD",
-   "away_pitcher": "Kyle Bradish",
-   "prob_home": 0.4466,
-   "pick": "Baltimore Orioles",
-   "confidence": 0.5534,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": 0.04999999999999982,
-    "sp_whip_diff": -0.07000000000000006,
-    "sp_k_rate_diff": -0.01100000000000001,
-    "sp_last5_fip_diff": 1.7599999999999998,
-    "bullpen_score_diff": -5.299999999999997,
-    "ops_14d_diff": -0.02200000000000002,
-    "ops_vs_hand_diff": -0.07099999999999995,
-    "rpg_14d_diff": 0.29000000000000004,
-    "home_field": 1,
-    "park_factor": 107
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Baltimore Orioles a 55% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Baltimore Orioles",
-      "text": "Kyle Bradish holds a slight FIP edge (4.10 vs 4.05), with WHIPs of 1.28 / 1.35 and K rates of 22.2% / 23.3%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Baltimore Orioles",
-      "text": "Over their last five starts the blended ERA/FIP marks are 4.10 (home) vs 2.34 (away) \u2014 a major edge in current form for the Baltimore Orioles."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Baltimore Orioles",
-      "text": "Bullpen Availability Scores: 65 vs 70 (quality FIP 3.98/3.96, relief IP last 3 days 6.3/4.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Baltimore Orioles",
-      "text": "Against a righty starter, the Boston Red Sox OPS split vs the Baltimore Orioles split shows a major edge for the Baltimore Orioles; 14-game OPS runs 0.777 vs 0.799."
-     },
-     {
-      "factor": "Context",
-      "lean": "Boston Red Sox",
-      "text": "Boston Red Sox get home field at Fenway Park (park factor 107, hitter-friendly). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 824166,
-   "date": "2026-07-22",
-   "game_time": "2026-07-23T00:10:00Z",
-   "venue": "Daikin Park",
-   "home": "Houston Astros",
-   "home_abbr": "HOU",
-   "away": "Miami Marlins",
-   "away_abbr": "MIA",
-   "home_pitcher": "Peter Lambert",
-   "away_pitcher": "Sandy Alcantara",
-   "prob_home": 0.5479,
-   "pick": "Houston Astros",
-   "confidence": 0.5479,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -0.08000000000000007,
-    "sp_whip_diff": -0.1299999999999999,
-    "sp_k_rate_diff": 0.04300000000000001,
-    "sp_last5_fip_diff": -0.77,
-    "bullpen_score_diff": -5.700000000000003,
-    "ops_14d_diff": 0.04999999999999993,
-    "ops_vs_hand_diff": 0.025000000000000022,
-    "rpg_14d_diff": 1.1199999999999997,
-    "home_field": 1,
-    "park_factor": 100
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Houston Astros a 55% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Houston Astros",
-      "text": "Peter Lambert holds a slight FIP edge (3.96 vs 4.04), with WHIPs of 1.11 / 1.24 and K rates of 22.1% / 17.8%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Houston Astros",
-      "text": "Over their last five starts the blended ERA/FIP marks are 3.77 (home) vs 4.54 (away) \u2014 a clear edge in current form for the Houston Astros."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Miami Marlins",
-      "text": "Bullpen Availability Scores: 58 vs 64 (quality FIP 3.79/3.69, relief IP last 3 days 11.7/10.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Houston Astros",
-      "text": "Against a righty starter, the Houston Astros OPS split vs the Miami Marlins split shows a clear edge for the Houston Astros; 14-game OPS runs 0.723 vs 0.673."
-     },
-     {
-      "factor": "Context",
-      "lean": "Houston Astros",
-      "text": "Houston Astros get home field at Daikin Park (park factor 100, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 823761,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T18:10:00Z",
-   "venue": "American Family Field",
-   "home": "Milwaukee Brewers",
-   "home_abbr": "MIL",
-   "away": "New York Mets",
-   "away_abbr": "NYM",
-   "home_pitcher": "Logan Henderson",
-   "away_pitcher": "Christian Scott",
-   "prob_home": 0.5412,
-   "pick": "Milwaukee Brewers",
-   "confidence": 0.5412,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -0.71,
-    "sp_whip_diff": -0.32000000000000006,
-    "sp_k_rate_diff": 0.030000000000000027,
-    "sp_last5_fip_diff": -0.33999999999999986,
-    "bullpen_score_diff": 0.30000000000000426,
-    "ops_14d_diff": -0.018000000000000016,
-    "ops_vs_hand_diff": 0.08299999999999996,
-    "rpg_14d_diff": 0.7999999999999998,
-    "home_field": 1,
-    "park_factor": 99
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Milwaukee Brewers a 54% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Milwaukee Brewers",
-      "text": "Logan Henderson holds a major FIP edge (3.02 vs 3.73), with WHIPs of 0.94 / 1.26 and K rates of 31.8% / 28.8%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Milwaukee Brewers",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.98 (home) vs 3.32 (away) \u2014 a clear edge in current form for the Milwaukee Brewers."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Milwaukee Brewers",
-      "text": "Bullpen Availability Scores: 60 vs 60 (quality FIP 3.66/3.98, relief IP last 3 days 13.3/8.7, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Milwaukee Brewers",
-      "text": "Against a righty starter, the Milwaukee Brewers OPS split vs the New York Mets split shows a major edge for the Milwaukee Brewers; 14-game OPS runs 0.703 vs 0.721."
-     },
-     {
-      "factor": "Context",
-      "lean": "Milwaukee Brewers",
-      "text": "Milwaukee Brewers get home field at American Family Field (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 824896,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T23:15:00Z",
-   "venue": "Truist Park",
-   "home": "Atlanta Braves",
-   "home_abbr": "ATL",
-   "away": "San Diego Padres",
-   "away_abbr": "SD",
-   "home_pitcher": "Mart\u00edn P\u00e9rez",
-   "away_pitcher": "Michael King",
-   "prob_home": 0.4723,
-   "pick": "San Diego Padres",
-   "confidence": 0.5277,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -0.40000000000000036,
-    "sp_whip_diff": -0.08999999999999986,
-    "sp_k_rate_diff": 0.0,
-    "sp_last5_fip_diff": 0.08999999999999986,
-    "bullpen_score_diff": 10.0,
-    "ops_14d_diff": -0.06899999999999995,
-    "ops_vs_hand_diff": 0.10099999999999998,
-    "rpg_14d_diff": -0.8999999999999995,
-    "home_field": 1,
-    "park_factor": 101
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the San Diego Padres a 53% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Atlanta Braves",
-      "text": "Mart\u00edn P\u00e9rez holds a clear FIP edge (3.75 vs 4.15), with WHIPs of 1.07 / 1.16 and K rates of 20.7% / 20.7%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "San Diego Padres",
-      "text": "Over their last five starts the blended ERA/FIP marks are 3.04 (home) vs 2.95 (away) \u2014 a slight edge in current form for the San Diego Padres."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Atlanta Braves",
-      "text": "Bullpen Availability Scores: 76 vs 66 (quality FIP 2.96/3.42, relief IP last 3 days 11.7/12.3, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Atlanta Braves",
-      "text": "Against a righty starter, the Atlanta Braves OPS split vs the San Diego Padres split shows a major edge for the Atlanta Braves; 14-game OPS runs 0.777 vs 0.846."
-     },
-     {
-      "factor": "Context",
-      "lean": "Atlanta Braves",
-      "text": "Atlanta Braves get home field at Truist Park (park factor 101, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 824408,
-   "date": "2026-07-22",
-   "game_time": "2026-07-22T22:40:00Z",
+   "game_pk": 824406,
+   "date": "2026-07-23",
+   "game_time": "2026-07-23T17:10:00Z",
    "venue": "Progressive Field",
    "home": "Cleveland Guardians",
    "home_abbr": "CLE",
    "away": "Minnesota Twins",
    "away_abbr": "MIN",
-   "home_pitcher": "Slade Cecconi",
-   "away_pitcher": "Bailey Ober",
-   "prob_home": 0.4789,
+   "home_pitcher": "Gavin Williams",
+   "away_pitcher": "Taj Bradley",
+   "prob_home": 0.4459,
    "pick": "Minnesota Twins",
-   "confidence": 0.5211,
+   "confidence": 0.5541,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -0.40000000000000036,
-    "sp_whip_diff": 0.21999999999999997,
-    "sp_k_rate_diff": -0.0020000000000000018,
-    "sp_last5_fip_diff": -2.2699999999999996,
-    "bullpen_score_diff": 17.499999999999993,
-    "ops_14d_diff": 0.129,
+    "sp_fip_diff": -0.3900000000000001,
+    "sp_whip_diff": -0.11999999999999988,
+    "sp_k_rate_diff": 0.03899999999999998,
+    "sp_last5_fip_diff": -0.04999999999999982,
+    "bullpen_score_diff": 16.6,
+    "ops_14d_diff": 0.134,
     "ops_vs_hand_diff": -0.06999999999999995,
-    "rpg_14d_diff": 1.3000000000000003,
+    "rpg_14d_diff": 1.0,
     "home_field": 1,
     "park_factor": 97
    },
    "detail_reasoning": {
-    "summary": "The model gives the Minnesota Twins a 52% win probability. This forecast is 100% machine-learned (trained on 1451 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Minnesota Twins a 55% win probability. This forecast is 100% machine-learned (trained on 1467 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
       "lean": "Cleveland Guardians",
-      "text": "Slade Cecconi holds a clear FIP edge (4.33 vs 4.73), with WHIPs of 1.41 / 1.19 and K rates of 17.9% / 18.1%."
+      "text": "Gavin Williams holds a clear FIP edge (3.69 vs 4.08), with WHIPs of 1.10 / 1.22 and K rates of 30.7% / 26.8%."
      },
      {
       "factor": "Recent form (last 5 starts)",
       "lean": "Cleveland Guardians",
-      "text": "Over their last five starts the blended ERA/FIP marks are 4.04 (home) vs 6.31 (away) \u2014 a major edge in current form for the Cleveland Guardians."
+      "text": "Over their last five starts the blended ERA/FIP marks are 3.33 (home) vs 3.38 (away) \u2014 a slight edge in current form for the Cleveland Guardians."
      },
      {
       "factor": "Bullpen availability score",
       "lean": "Cleveland Guardians",
-      "text": "Bullpen Availability Scores: 72 vs 54 (quality FIP 3.31/3.93, relief IP last 3 days 10.3/14.7, closer available True/True)."
+      "text": "Bullpen Availability Scores: 71 vs 54 (quality FIP 3.31/3.93, relief IP last 3 days 10.7/14.7, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
       "lean": "Minnesota Twins",
-      "text": "Against a righty starter, the Cleveland Guardians OPS split vs the Minnesota Twins split shows a major edge for the Minnesota Twins; 14-game OPS runs 0.803 vs 0.674."
+      "text": "Against a righty starter, the Cleveland Guardians OPS split vs the Minnesota Twins split shows a major edge for the Minnesota Twins; 14-game OPS runs 0.812 vs 0.678."
      },
      {
       "factor": "Context",
