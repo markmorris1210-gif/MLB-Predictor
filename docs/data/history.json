@@ -3400,5 +3400,41 @@
   "winner": "Houston Astros",
   "score": "2\u20135",
   "correct": true
+ },
+ {
+  "date": "2026-07-23",
+  "matchup": "Minnesota Twins @ Cleveland Guardians",
+  "prob_home": 0.4459,
+  "predicted": "Minnesota Twins",
+  "winner": "Minnesota Twins",
+  "score": "3\u20131",
+  "correct": true
+ },
+ {
+  "date": "2026-07-23",
+  "matchup": "Tampa Bay Rays @ Toronto Blue Jays",
+  "prob_home": 0.5678,
+  "predicted": "Toronto Blue Jays",
+  "winner": "Toronto Blue Jays",
+  "score": "1\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-07-23",
+  "matchup": "Arizona Diamondbacks @ St. Louis Cardinals",
+  "prob_home": 0.5915,
+  "predicted": "St. Louis Cardinals",
+  "winner": "Arizona Diamondbacks",
+  "score": "10\u20136",
+  "correct": false
+ },
+ {
+  "date": "2026-07-23",
+  "matchup": "Kansas City Royals @ Detroit Tigers",
+  "prob_home": 0.647,
+  "predicted": "Detroit Tigers",
+  "winner": "Detroit Tigers",
+  "score": "3\u20134",
+  "correct": true
  }
 ]
