@@ -5461,5 +5461,95 @@
   "winner": "San Diego Padres",
   "score": "2\u20137",
   "correct": true
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Boston Red Sox @ Toronto Blue Jays",
+  "prob_home": 0.5909,
+  "predicted": "Toronto Blue Jays",
+  "winner": "Toronto Blue Jays",
+  "score": "1\u20132",
+  "correct": true
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "New York Mets @ Atlanta Braves",
+  "prob_home": 0.591,
+  "predicted": "Atlanta Braves",
+  "winner": "New York Mets",
+  "score": "8\u20135",
+  "correct": false
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Baltimore Orioles @ Minnesota Twins",
+  "prob_home": 0.501,
+  "predicted": "Minnesota Twins",
+  "winner": "Minnesota Twins",
+  "score": "5\u20139",
+  "correct": true
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Philadelphia Phillies @ St. Louis Cardinals",
+  "prob_home": 0.553,
+  "predicted": "St. Louis Cardinals",
+  "winner": "Philadelphia Phillies",
+  "score": "6\u20135",
+  "correct": false
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Texas Rangers @ Los Angeles Angels",
+  "prob_home": 0.4805,
+  "predicted": "Texas Rangers",
+  "winner": "Texas Rangers",
+  "score": "4\u20131",
+  "correct": true
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Colorado Rockies @ Arizona Diamondbacks",
+  "prob_home": 0.5186,
+  "predicted": "Arizona Diamondbacks",
+  "winner": "Arizona Diamondbacks",
+  "score": "0\u20139",
+  "correct": true
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Tampa Bay Rays @ Athletics",
+  "prob_home": 0.8224,
+  "predicted": "Athletics",
+  "winner": "Tampa Bay Rays",
+  "score": "10\u20136",
+  "correct": false
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Milwaukee Brewers @ San Diego Padres",
+  "prob_home": 0.5083,
+  "predicted": "San Diego Padres",
+  "winner": "San Diego Padres",
+  "score": "2\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Houston Astros @ San Francisco Giants",
+  "prob_home": 0.5046,
+  "predicted": "San Francisco Giants",
+  "winner": "Houston Astros",
+  "score": "6\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-08-10",
+  "matchup": "Kansas City Royals @ Los Angeles Dodgers",
+  "prob_home": 0.5898,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Los Angeles Dodgers",
+  "score": "5\u20136",
+  "correct": true
  }
 ]
