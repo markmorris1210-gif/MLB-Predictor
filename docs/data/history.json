@@ -5821,5 +5821,86 @@
   "winner": "Los Angeles Angels",
   "score": "2\u20135",
   "correct": false
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Cleveland Guardians @ Detroit Tigers",
+  "prob_home": 0.5247,
+  "predicted": "Detroit Tigers",
+  "winner": "Detroit Tigers",
+  "score": "0\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Cincinnati Reds @ Chicago White Sox",
+  "prob_home": 0.5448,
+  "predicted": "Chicago White Sox",
+  "winner": "Cincinnati Reds",
+  "score": "9\u20138",
+  "correct": false
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Pittsburgh Pirates @ Miami Marlins",
+  "prob_home": 0.4909,
+  "predicted": "Pittsburgh Pirates",
+  "winner": "Pittsburgh Pirates",
+  "score": "13\u20131",
+  "correct": true
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Seattle Mariners @ New York Yankees",
+  "prob_home": 0.5927,
+  "predicted": "New York Yankees",
+  "winner": "Seattle Mariners",
+  "score": "1\u20130",
+  "correct": false
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Boston Red Sox @ Toronto Blue Jays",
+  "prob_home": 0.391,
+  "predicted": "Boston Red Sox",
+  "winner": "Boston Red Sox",
+  "score": "7\u20130",
+  "correct": true
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Chicago Cubs @ Washington Nationals",
+  "prob_home": 0.4257,
+  "predicted": "Chicago Cubs",
+  "winner": "Washington Nationals",
+  "score": "0\u20137",
+  "correct": false
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Philadelphia Phillies @ Minnesota Twins",
+  "prob_home": 0.5517,
+  "predicted": "Minnesota Twins",
+  "winner": "Philadelphia Phillies",
+  "score": "7\u20131",
+  "correct": false
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Texas Rangers @ Los Angeles Angels",
+  "prob_home": 0.5051,
+  "predicted": "Los Angeles Angels",
+  "winner": "Los Angeles Angels",
+  "score": "0\u20137",
+  "correct": true
+ },
+ {
+  "date": "2026-08-13",
+  "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
+  "prob_home": 0.5297,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Milwaukee Brewers",
+  "score": "5\u20134",
+  "correct": false
  }
 ]
