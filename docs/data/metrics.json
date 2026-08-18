@@ -1,54 +1,54 @@
 {
- "n_games": 1789,
+ "n_games": 1800,
  "model_type": "XGBoost + isotonic calibration",
- "train_accuracy": 0.7093,
- "train_log_loss": 0.621,
- "train_brier": 0.215,
+ "train_accuracy": 0.7178,
+ "train_log_loss": 0.6233,
+ "train_brier": 0.2159,
  "status": "trained",
  "feature_importance": [
   {
    "feature": "sp_whip_diff",
-   "weight": 0.1461
+   "weight": 0.1483
   },
   {
    "feature": "sp_last5_fip_diff",
-   "weight": 0.1291
-  },
-  {
-   "feature": "bullpen_score_diff",
-   "weight": 0.1085
-  },
-  {
-   "feature": "ops_vs_hand_diff",
-   "weight": 0.1082
+   "weight": 0.1288
   },
   {
    "feature": "park_factor",
-   "weight": 0.1048
+   "weight": 0.1079
   },
   {
-   "feature": "sp_k_rate_diff",
-   "weight": 0.1021
+   "feature": "bullpen_score_diff",
+   "weight": 0.1078
   },
   {
-   "feature": "ops_14d_diff",
-   "weight": 0.1015
+   "feature": "ops_vs_hand_diff",
+   "weight": 0.1055
   },
   {
    "feature": "sp_fip_diff",
-   "weight": 0.1007
+   "weight": 0.1025
+  },
+  {
+   "feature": "sp_k_rate_diff",
+   "weight": 0.1011
+  },
+  {
+   "feature": "ops_14d_diff",
+   "weight": 0.0997
   },
   {
    "feature": "rpg_14d_diff",
-   "weight": 0.099
+   "weight": 0.0983
   },
   {
    "feature": "home_field",
    "weight": 0.0
   }
  ],
- "season_accuracy": 0.5229,
- "season_record": "366-334",
- "last50_accuracy": 0.48,
- "last_updated": "2026-08-17"
+ "season_accuracy": 0.5232,
+ "season_record": "372-339",
+ "last50_accuracy": 0.52,
+ "last_updated": "2026-08-18"
 }
