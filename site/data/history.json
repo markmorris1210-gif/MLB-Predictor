@@ -7153,5 +7153,95 @@
   "winner": "Atlanta Braves",
   "score": "4\u20132",
   "correct": false
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Tampa Bay Rays @ Detroit Tigers",
+  "prob_home": 0.4824,
+  "predicted": "Tampa Bay Rays",
+  "winner": "Tampa Bay Rays",
+  "score": "4\u20131",
+  "correct": true
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Boston Red Sox @ Miami Marlins",
+  "prob_home": 0.5125,
+  "predicted": "Miami Marlins",
+  "winner": "Boston Red Sox",
+  "score": "4\u20132",
+  "correct": false
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Colorado Rockies @ Washington Nationals",
+  "prob_home": 0.5136,
+  "predicted": "Washington Nationals",
+  "winner": "Washington Nationals",
+  "score": "3\u201313",
+  "correct": true
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Texas Rangers @ Chicago White Sox",
+  "prob_home": 0.5643,
+  "predicted": "Chicago White Sox",
+  "winner": "Texas Rangers",
+  "score": "11\u20132",
+  "correct": false
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Cleveland Guardians @ Los Angeles Angels",
+  "prob_home": 0.5112,
+  "predicted": "Los Angeles Angels",
+  "winner": "Cleveland Guardians",
+  "score": "4\u20132",
+  "correct": false
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Chicago Cubs @ Arizona Diamondbacks",
+  "prob_home": 0.4912,
+  "predicted": "Chicago Cubs",
+  "winner": "Chicago Cubs",
+  "score": "7\u20130",
+  "correct": true
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Pittsburgh Pirates @ San Diego Padres",
+  "prob_home": 0.5497,
+  "predicted": "San Diego Padres",
+  "winner": "Pittsburgh Pirates",
+  "score": "3\u20132",
+  "correct": false
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Minnesota Twins @ Athletics",
+  "prob_home": 0.4669,
+  "predicted": "Minnesota Twins",
+  "winner": "Minnesota Twins",
+  "score": "9\u20136",
+  "correct": true
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Philadelphia Phillies @ Seattle Mariners",
+  "prob_home": 0.5314,
+  "predicted": "Seattle Mariners",
+  "winner": "Seattle Mariners",
+  "score": "2\u20139",
+  "correct": true
+ },
+ {
+  "date": "2026-08-24",
+  "matchup": "Cincinnati Reds @ San Francisco Giants",
+  "prob_home": 0.4924,
+  "predicted": "Cincinnati Reds",
+  "winner": "San Francisco Giants",
+  "score": "0\u20135",
+  "correct": false
  }
 ]
