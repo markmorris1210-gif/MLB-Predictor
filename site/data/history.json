@@ -7513,5 +7513,14 @@
   "winner": "Athletics",
   "score": "4\u20137",
   "correct": true
+ },
+ {
+  "date": "2026-08-28",
+  "matchup": "Cincinnati Reds @ Chicago Cubs",
+  "prob_home": 0.5535,
+  "predicted": "Chicago Cubs",
+  "winner": "Cincinnati Reds",
+  "score": "10\u20138",
+  "correct": false
  }
 ]

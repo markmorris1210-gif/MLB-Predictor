@@ -1,23 +1,14 @@
 {
- "date": "2026-08-27",
+ "date": "2026-08-28",
  "games": [
   {
-   "away": "Colorado Rockies",
-   "away_abbr": "COL",
-   "away_score": 1,
-   "home": "Washington Nationals",
-   "home_abbr": "WSH",
-   "home_score": 7,
-   "winner": "WSH"
-  },
-  {
-   "away": "Baltimore Orioles",
-   "away_abbr": "BAL",
-   "away_score": 5,
-   "home": "St. Louis Cardinals",
-   "home_abbr": "STL",
-   "home_score": 7,
-   "winner": "STL"
+   "away": "Cincinnati Reds",
+   "away_abbr": "CIN",
+   "away_score": 10,
+   "home": "Chicago Cubs",
+   "home_abbr": "CHC",
+   "home_score": 8,
+   "winner": "CIN"
   }
  ]
 }
