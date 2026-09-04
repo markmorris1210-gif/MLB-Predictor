@@ -8179,5 +8179,86 @@
   "winner": "St. Louis Cardinals",
   "score": "8\u20136",
   "correct": false
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "San Francisco Giants @ Pittsburgh Pirates",
+  "prob_home": 0.5497,
+  "predicted": "Pittsburgh Pirates",
+  "winner": "Pittsburgh Pirates",
+  "score": "2\u20135",
+  "correct": true
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "Toronto Blue Jays @ Cleveland Guardians",
+  "prob_home": 0.5074,
+  "predicted": "Cleveland Guardians",
+  "winner": "Toronto Blue Jays",
+  "score": "6\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "Chicago White Sox @ Houston Astros",
+  "prob_home": 0.5296,
+  "predicted": "Houston Astros",
+  "winner": "Houston Astros",
+  "score": "2\u20136",
+  "correct": true
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "Boston Red Sox @ Baltimore Orioles",
+  "prob_home": 0.4968,
+  "predicted": "Boston Red Sox",
+  "winner": "Boston Red Sox",
+  "score": "6\u20135",
+  "correct": true
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "Milwaukee Brewers @ Chicago Cubs",
+  "prob_home": 0.4798,
+  "predicted": "Milwaukee Brewers",
+  "winner": "Chicago Cubs",
+  "score": "1\u20132",
+  "correct": false
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "Miami Marlins @ Kansas City Royals",
+  "prob_home": 0.5296,
+  "predicted": "Kansas City Royals",
+  "winner": "Kansas City Royals",
+  "score": "3\u20137",
+  "correct": true
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "Tampa Bay Rays @ Texas Rangers",
+  "prob_home": 0.4968,
+  "predicted": "Tampa Bay Rays",
+  "winner": "Texas Rangers",
+  "score": "0\u20136",
+  "correct": false
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "Athletics @ Seattle Mariners",
+  "prob_home": 0.6243,
+  "predicted": "Seattle Mariners",
+  "winner": "Athletics",
+  "score": "7\u20134",
+  "correct": false
+ },
+ {
+  "date": "2026-09-03",
+  "matchup": "St. Louis Cardinals @ Los Angeles Dodgers",
+  "prob_home": 0.6418,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Los Angeles Dodgers",
+  "score": "2\u20133",
+  "correct": true
  }
 ]
