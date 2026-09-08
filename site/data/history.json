@@ -8674,5 +8674,95 @@
   "winner": "Los Angeles Dodgers",
   "score": "5\u20137",
   "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "New York Mets @ Miami Marlins",
+  "prob_home": 0.5058,
+  "predicted": "Miami Marlins",
+  "winner": "New York Mets",
+  "score": "9\u20134",
+  "correct": false
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Los Angeles Angels @ Boston Red Sox",
+  "prob_home": 0.5499,
+  "predicted": "Boston Red Sox",
+  "winner": "Boston Red Sox",
+  "score": "2\u20135",
+  "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Cleveland Guardians @ Baltimore Orioles",
+  "prob_home": 0.5563,
+  "predicted": "Baltimore Orioles",
+  "winner": "Baltimore Orioles",
+  "score": "4\u20136",
+  "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Arizona Diamondbacks @ Kansas City Royals",
+  "prob_home": 0.4714,
+  "predicted": "Arizona Diamondbacks",
+  "winner": "Arizona Diamondbacks",
+  "score": "5\u20134",
+  "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Chicago Cubs @ Milwaukee Brewers",
+  "prob_home": 0.4723,
+  "predicted": "Chicago Cubs",
+  "winner": "Milwaukee Brewers",
+  "score": "3\u20134",
+  "correct": false
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Minnesota Twins @ Detroit Tigers",
+  "prob_home": 0.514,
+  "predicted": "Detroit Tigers",
+  "winner": "Detroit Tigers",
+  "score": "4\u20135",
+  "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Washington Nationals @ San Diego Padres",
+  "prob_home": 0.6881,
+  "predicted": "San Diego Padres",
+  "winner": "San Diego Padres",
+  "score": "2\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "St. Louis Cardinals @ San Francisco Giants",
+  "prob_home": 0.5112,
+  "predicted": "San Francisco Giants",
+  "winner": "San Francisco Giants",
+  "score": "4\u20135",
+  "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Cincinnati Reds @ Los Angeles Dodgers",
+  "prob_home": 0.5608,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Los Angeles Dodgers",
+  "score": "3\u20136",
+  "correct": true
+ },
+ {
+  "date": "2026-09-07",
+  "matchup": "Toronto Blue Jays @ Athletics",
+  "prob_home": 0.4699,
+  "predicted": "Toronto Blue Jays",
+  "winner": "Athletics",
+  "score": "5\u20136",
+  "correct": false
  }
 ]
