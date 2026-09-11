@@ -9034,5 +9034,41 @@
   "winner": "Los Angeles Dodgers",
   "score": "1\u201314",
   "correct": true
+ },
+ {
+  "date": "2026-09-10",
+  "matchup": "Houston Astros @ Philadelphia Phillies",
+  "prob_home": 0.557,
+  "predicted": "Philadelphia Phillies",
+  "winner": "Houston Astros",
+  "score": "2\u20131",
+  "correct": false
+ },
+ {
+  "date": "2026-09-10",
+  "matchup": "Texas Rangers @ Seattle Mariners",
+  "prob_home": 0.4808,
+  "predicted": "Texas Rangers",
+  "winner": "Seattle Mariners",
+  "score": "3\u20134",
+  "correct": false
+ },
+ {
+  "date": "2026-09-10",
+  "matchup": "Colorado Rockies @ New York Yankees",
+  "prob_home": 0.6014,
+  "predicted": "New York Yankees",
+  "winner": "New York Yankees",
+  "score": "3\u201310",
+  "correct": true
+ },
+ {
+  "date": "2026-09-10",
+  "matchup": "Pittsburgh Pirates @ Chicago White Sox",
+  "prob_home": 0.5565,
+  "predicted": "Chicago White Sox",
+  "winner": "Pittsburgh Pirates",
+  "score": "2\u20130",
+  "correct": false
  }
 ]
