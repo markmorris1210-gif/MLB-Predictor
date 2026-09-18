@@ -9835,5 +9835,86 @@
   "winner": "Miami Marlins",
   "score": "4\u20133",
   "correct": false
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Milwaukee Brewers @ Pittsburgh Pirates",
+  "prob_home": 0.4989,
+  "predicted": "Milwaukee Brewers",
+  "winner": "Pittsburgh Pirates",
+  "score": "4\u20137",
+  "correct": false
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Los Angeles Dodgers @ Cincinnati Reds",
+  "prob_home": 0.419,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Los Angeles Dodgers",
+  "score": "8\u20132",
+  "correct": true
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Athletics @ Tampa Bay Rays",
+  "prob_home": 0.6084,
+  "predicted": "Tampa Bay Rays",
+  "winner": "Tampa Bay Rays",
+  "score": "1\u201310",
+  "correct": true
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "San Diego Padres @ Colorado Rockies",
+  "prob_home": 0.4709,
+  "predicted": "San Diego Padres",
+  "winner": "San Diego Padres",
+  "score": "9\u20132",
+  "correct": true
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Kansas City Royals @ Houston Astros",
+  "prob_home": 0.8433,
+  "predicted": "Houston Astros",
+  "winner": "Houston Astros",
+  "score": "2\u20136",
+  "correct": true
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Philadelphia Phillies @ New York Mets",
+  "prob_home": 0.4857,
+  "predicted": "Philadelphia Phillies",
+  "winner": "Philadelphia Phillies",
+  "score": "3\u20130",
+  "correct": true
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Detroit Tigers @ Chicago White Sox",
+  "prob_home": 0.5073,
+  "predicted": "Chicago White Sox",
+  "winner": "Chicago White Sox",
+  "score": "1\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Boston Red Sox @ Texas Rangers",
+  "prob_home": 0.5168,
+  "predicted": "Texas Rangers",
+  "winner": "Boston Red Sox",
+  "score": "4\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-09-17",
+  "matchup": "Minnesota Twins @ Los Angeles Angels",
+  "prob_home": 0.5487,
+  "predicted": "Los Angeles Angels",
+  "winner": "Los Angeles Angels",
+  "score": "4\u20135",
+  "correct": true
  }
 ]
