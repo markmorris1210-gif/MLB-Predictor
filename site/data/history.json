@@ -10321,5 +10321,32 @@
   "winner": "Milwaukee Brewers",
   "score": "3\u20130",
   "correct": true
+ },
+ {
+  "date": "2026-09-21",
+  "matchup": "Toronto Blue Jays @ Baltimore Orioles",
+  "prob_home": 0.5459,
+  "predicted": "Baltimore Orioles",
+  "winner": "Baltimore Orioles",
+  "score": "3\u20134",
+  "correct": true
+ },
+ {
+  "date": "2026-09-21",
+  "matchup": "Washington Nationals @ Detroit Tigers",
+  "prob_home": 0.5037,
+  "predicted": "Detroit Tigers",
+  "winner": "Detroit Tigers",
+  "score": "2\u20139",
+  "correct": true
+ },
+ {
+  "date": "2026-09-21",
+  "matchup": "Minnesota Twins @ San Francisco Giants",
+  "prob_home": 0.5228,
+  "predicted": "San Francisco Giants",
+  "winner": "San Francisco Giants",
+  "score": "2\u20135",
+  "correct": true
  }
 ]

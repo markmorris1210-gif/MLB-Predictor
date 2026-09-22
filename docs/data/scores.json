@@ -1,140 +1,32 @@
 {
- "date": "2026-09-20",
+ "date": "2026-09-21",
  "games": [
   {
-   "away": "Philadelphia Phillies",
-   "away_abbr": "PHI",
-   "away_score": 7,
-   "home": "New York Mets",
-   "home_abbr": "NYM",
-   "home_score": 2,
-   "winner": "PHI"
-  },
-  {
-   "away": "Kansas City Royals",
-   "away_abbr": "KC",
+   "away": "Toronto Blue Jays",
+   "away_abbr": "TOR",
    "away_score": 3,
-   "home": "Pittsburgh Pirates",
-   "home_abbr": "PIT",
+   "home": "Baltimore Orioles",
+   "home_abbr": "BAL",
    "home_score": 4,
-   "winner": "PIT"
-  },
-  {
-   "away": "Chicago Cubs",
-   "away_abbr": "CHC",
-   "away_score": 9,
-   "home": "Cincinnati Reds",
-   "home_abbr": "CIN",
-   "home_score": 1,
-   "winner": "CHC"
-  },
-  {
-   "away": "Athletics",
-   "away_abbr": "ATH",
-   "away_score": 0,
-   "home": "Cleveland Guardians",
-   "home_abbr": "CLE",
-   "home_score": 1,
-   "winner": "CLE"
-  },
-  {
-   "away": "Boston Red Sox",
-   "away_abbr": "BOS",
-   "away_score": 1,
-   "home": "Tampa Bay Rays",
-   "home_abbr": "TB",
-   "home_score": 5,
-   "winner": "TB"
-  },
-  {
-   "away": "Atlanta Braves",
-   "away_abbr": "ATL",
-   "away_score": 4,
-   "home": "Houston Astros",
-   "home_abbr": "HOU",
-   "home_score": 2,
-   "winner": "ATL"
-  },
-  {
-   "away": "Detroit Tigers",
-   "away_abbr": "DET",
-   "away_score": 1,
-   "home": "Chicago White Sox",
-   "home_abbr": "CWS",
-   "home_score": 8,
-   "winner": "CWS"
+   "winner": "BAL"
   },
   {
    "away": "Washington Nationals",
    "away_abbr": "WSH",
-   "away_score": 3,
-   "home": "St. Louis Cardinals",
-   "home_abbr": "STL",
-   "home_score": 5,
-   "winner": "STL"
-  },
-  {
-   "away": "Toronto Blue Jays",
-   "away_abbr": "TOR",
-   "away_score": 7,
-   "home": "Texas Rangers",
-   "home_abbr": "TEX",
-   "home_score": 2,
-   "winner": "TOR"
-  },
-  {
-   "away": "Seattle Mariners",
-   "away_abbr": "SEA",
    "away_score": 2,
-   "home": "Colorado Rockies",
-   "home_abbr": "COL",
-   "home_score": 1,
-   "winner": "SEA"
+   "home": "Detroit Tigers",
+   "home_abbr": "DET",
+   "home_score": 9,
+   "winner": "DET"
   },
   {
    "away": "Minnesota Twins",
    "away_abbr": "MIN",
-   "away_score": 8,
-   "home": "Los Angeles Angels",
-   "home_abbr": "LAA",
-   "home_score": 0,
-   "winner": "MIN"
-  },
-  {
-   "away": "San Francisco Giants",
-   "away_abbr": "SF",
-   "away_score": 1,
-   "home": "Los Angeles Dodgers",
-   "home_abbr": "LAD",
-   "home_score": 3,
-   "winner": "LAD"
-  },
-  {
-   "away": "Miami Marlins",
-   "away_abbr": "MIA",
-   "away_score": 3,
-   "home": "San Diego Padres",
-   "home_abbr": "SD",
-   "home_score": 7,
-   "winner": "SD"
-  },
-  {
-   "away": "New York Yankees",
-   "away_abbr": "NYY",
-   "away_score": 4,
-   "home": "Arizona Diamondbacks",
-   "home_abbr": "AZ",
-   "home_score": 8,
-   "winner": "AZ"
-  },
-  {
-   "away": "Milwaukee Brewers",
-   "away_abbr": "MIL",
-   "away_score": 3,
-   "home": "Baltimore Orioles",
-   "home_abbr": "BAL",
-   "home_score": 0,
-   "winner": "MIL"
+   "away_score": 2,
+   "home": "San Francisco Giants",
+   "home_abbr": "SF",
+   "home_score": 5,
+   "winner": "SF"
   }
  ]
 }
