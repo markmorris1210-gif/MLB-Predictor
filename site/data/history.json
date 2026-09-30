@@ -11122,5 +11122,41 @@
   "winner": "Milwaukee Brewers",
   "score": "4\u20136",
   "correct": true
+ },
+ {
+  "date": "2026-09-29",
+  "matchup": "Philadelphia Phillies @ Atlanta Braves",
+  "prob_home": 0.6053,
+  "predicted": "Atlanta Braves",
+  "winner": "Atlanta Braves",
+  "score": "3\u20135",
+  "correct": true
+ },
+ {
+  "date": "2026-09-29",
+  "matchup": "Chicago White Sox @ Houston Astros",
+  "prob_home": 0.4567,
+  "predicted": "Chicago White Sox",
+  "winner": "Chicago White Sox",
+  "score": "6\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-09-29",
+  "matchup": "Boston Red Sox @ New York Yankees",
+  "prob_home": 0.5853,
+  "predicted": "New York Yankees",
+  "winner": "New York Yankees",
+  "score": "0\u20139",
+  "correct": true
+ },
+ {
+  "date": "2026-09-29",
+  "matchup": "Chicago Cubs @ San Diego Padres",
+  "prob_home": 0.5765,
+  "predicted": "San Diego Padres",
+  "winner": "San Diego Padres",
+  "score": "0\u20138",
+  "correct": true
  }
 ]
