@@ -11194,5 +11194,14 @@
   "winner": "San Diego Padres",
   "score": "1\u20134",
   "correct": true
+ },
+ {
+  "date": "2026-10-01",
+  "matchup": "Philadelphia Phillies @ Atlanta Braves",
+  "prob_home": 0.6457,
+  "predicted": "Atlanta Braves",
+  "winner": "Atlanta Braves",
+  "score": "2\u20136",
+  "correct": true
  }
 ]
