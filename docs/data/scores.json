@@ -1,14 +1,4 @@
 {
- "date": "2026-10-01",
- "games": [
-  {
-   "away": "Philadelphia Phillies",
-   "away_abbr": "PHI",
-   "away_score": 2,
-   "home": "Atlanta Braves",
-   "home_abbr": "ATL",
-   "home_score": 6,
-   "winner": "ATL"
-  }
- ]
+ "date": "2026-10-02",
+ "games": []
 }
