@@ -1,0 +1,32 @@
+{
+ "849825": {
+  "features": {
+   "sp_fip_diff": -0.8099999999999996,
+   "sp_whip_diff": -0.33999999999999997,
+   "sp_k_rate_diff": 0.086,
+   "sp_last5_fip_diff": -0.6699999999999999,
+   "bullpen_score_diff": -4.799999999999997,
+   "ops_14d_diff": -0.006000000000000005,
+   "ops_vs_hand_diff": 0.08699999999999997,
+   "rpg_14d_diff": -0.8600000000000003,
+   "home_field": 1,
+   "park_factor": 99
+  },
+  "prob_home": 0.52
+ },
+ "849823": {
+  "features": {
+   "sp_fip_diff": -2.2499999999999996,
+   "sp_whip_diff": 0.5000000000000001,
+   "sp_k_rate_diff": 0.151,
+   "sp_last5_fip_diff": -0.74,
+   "bullpen_score_diff": 8.899999999999991,
+   "ops_14d_diff": 0.119,
+   "ops_vs_hand_diff": -0.02100000000000002,
+   "rpg_14d_diff": 0.0,
+   "home_field": 1,
+   "park_factor": 98
+  },
+  "prob_home": 0.5724
+ }
+}
