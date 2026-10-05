@@ -11239,5 +11239,23 @@
   "winner": "Milwaukee Brewers",
   "score": "2\u20133",
   "correct": true
+ },
+ {
+  "date": "2026-10-04",
+  "matchup": "San Diego Padres @ Milwaukee Brewers",
+  "prob_home": 0.52,
+  "predicted": "Milwaukee Brewers",
+  "winner": "Milwaukee Brewers",
+  "score": "3\u20134",
+  "correct": true
+ },
+ {
+  "date": "2026-10-04",
+  "matchup": "Atlanta Braves @ Los Angeles Dodgers",
+  "prob_home": 0.5724,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Atlanta Braves",
+  "score": "3\u20132",
+  "correct": false
  }
 ]
