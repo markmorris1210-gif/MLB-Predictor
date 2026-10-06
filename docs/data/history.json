@@ -11257,5 +11257,23 @@
   "winner": "Atlanta Braves",
   "score": "3\u20132",
   "correct": false
+ },
+ {
+  "date": "2026-10-05",
+  "matchup": "Chicago White Sox @ Cleveland Guardians",
+  "prob_home": 0.662,
+  "predicted": "Cleveland Guardians",
+  "winner": "Chicago White Sox",
+  "score": "4\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-10-05",
+  "matchup": "New York Yankees @ Tampa Bay Rays",
+  "prob_home": 0.5166,
+  "predicted": "Tampa Bay Rays",
+  "winner": "Tampa Bay Rays",
+  "score": "2\u20135",
+  "correct": true
  }
 ]

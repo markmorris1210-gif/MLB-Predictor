@@ -1,23 +1,23 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "games": [
   {
-   "away": "San Diego Padres",
-   "away_abbr": "SD",
-   "away_score": 3,
-   "home": "Milwaukee Brewers",
-   "home_abbr": "MIL",
-   "home_score": 4,
-   "winner": "MIL"
+   "away": "Chicago White Sox",
+   "away_abbr": "CWS",
+   "away_score": 4,
+   "home": "Cleveland Guardians",
+   "home_abbr": "CLE",
+   "home_score": 3,
+   "winner": "CWS"
   },
   {
-   "away": "Atlanta Braves",
-   "away_abbr": "ATL",
-   "away_score": 3,
-   "home": "Los Angeles Dodgers",
-   "home_abbr": "LAD",
-   "home_score": 2,
-   "winner": "ATL"
+   "away": "New York Yankees",
+   "away_abbr": "NYY",
+   "away_score": 2,
+   "home": "Tampa Bay Rays",
+   "home_abbr": "TB",
+   "home_score": 5,
+   "winner": "TB"
   }
  ]
 }
