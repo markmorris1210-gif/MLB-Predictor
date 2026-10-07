@@ -1,56 +1,172 @@
 {
- "generated": "2026-10-06",
- "slate_date": "2026-10-06",
+ "generated": "2026-10-07",
+ "slate_date": "2026-10-07",
  "games": [
   {
-   "game_pk": 849826,
-   "date": "2026-10-06",
-   "game_time": "2026-10-07T01:30:00Z",
+   "game_pk": 849822,
+   "date": "2026-10-07",
+   "game_time": "2026-10-07T22:00:00Z",
+   "venue": "Truist Park",
+   "home": "Atlanta Braves",
+   "home_abbr": "ATL",
+   "away": "Los Angeles Dodgers",
+   "away_abbr": "LAD",
+   "home_pitcher": "Tyler Mahle",
+   "away_pitcher": "Tyler Glasnow",
+   "prob_home": 0.2847,
+   "pick": "Los Angeles Dodgers",
+   "confidence": 0.7153,
+   "ml_weight": 1.0,
+   "features": {
+    "sp_fip_diff": 2.1399999999999997,
+    "sp_whip_diff": 0.5900000000000001,
+    "sp_k_rate_diff": -0.11100000000000002,
+    "sp_last5_fip_diff": 1.8699999999999997,
+    "bullpen_score_diff": 0.9000000000000057,
+    "ops_14d_diff": -0.03700000000000003,
+    "ops_vs_hand_diff": -0.06700000000000006,
+    "rpg_14d_diff": 1.2000000000000002,
+    "home_field": 1,
+    "park_factor": 101
+   },
+   "detail_reasoning": {
+    "summary": "The model gives the Los Angeles Dodgers a 72% win probability. This forecast is 100% machine-learned (trained on 2344 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "factors": [
+     {
+      "factor": "Starting pitching",
+      "lean": "Los Angeles Dodgers",
+      "text": "Tyler Glasnow holds a major FIP edge (4.93 vs 2.79), with WHIPs of 1.54 / 0.95 and K rates of 22.9% / 34.0%."
+     },
+     {
+      "factor": "Recent form (last 5 starts)",
+      "lean": "Los Angeles Dodgers",
+      "text": "Over their last five starts the blended ERA/FIP marks are 5.27 (home) vs 3.40 (away) \u2014 a major edge in current form for the Los Angeles Dodgers."
+     },
+     {
+      "factor": "Bullpen availability score",
+      "lean": "Atlanta Braves",
+      "text": "Bullpen Availability Scores: 78 vs 78 (quality FIP 2.96/3.32, relief IP last 3 days 10.3/7.3, closer available True/True)."
+     },
+     {
+      "factor": "Offense vs. starter handedness",
+      "lean": "Los Angeles Dodgers",
+      "text": "Against a righty starter, the Atlanta Braves OPS split vs the Los Angeles Dodgers split shows a major edge for the Los Angeles Dodgers; 14-game OPS runs 0.629 vs 0.666."
+     },
+     {
+      "factor": "Context",
+      "lean": "Atlanta Braves",
+      "text": "Atlanta Braves get home field at Truist Park (park factor 101, roughly neutral). Home teams win about 53.5% of MLB games."
+     }
+    ]
+   }
+  },
+  {
+   "game_pk": 849833,
+   "date": "2026-10-07",
+   "game_time": "2026-10-07T20:00:00Z",
+   "venue": "Rate Field",
+   "home": "Chicago White Sox",
+   "home_abbr": "CWS",
+   "away": "Cleveland Guardians",
+   "away_abbr": "CLE",
+   "home_pitcher": "Sean Newcomb",
+   "away_pitcher": "Daniel Espino",
+   "prob_home": 0.6473,
+   "pick": "Chicago White Sox",
+   "confidence": 0.6473,
+   "ml_weight": 1.0,
+   "features": {
+    "sp_fip_diff": -0.54,
+    "sp_whip_diff": -0.06000000000000005,
+    "sp_k_rate_diff": -0.159,
+    "sp_last5_fip_diff": -4.68,
+    "bullpen_score_diff": -23.800000000000004,
+    "ops_14d_diff": -0.013000000000000012,
+    "ops_vs_hand_diff": 0.040999999999999925,
+    "rpg_14d_diff": 0.5999999999999996,
+    "home_field": 1,
+    "park_factor": 99
+   },
+   "detail_reasoning": {
+    "summary": "The model gives the Chicago White Sox a 65% win probability. This forecast is 100% machine-learned (trained on 2344 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "factors": [
+     {
+      "factor": "Starting pitching",
+      "lean": "Chicago White Sox",
+      "text": "Sean Newcomb holds a clear FIP edge (3.26 vs 3.80), with WHIPs of 1.18 / 1.24 and K rates of 22.6% / 38.5%."
+     },
+     {
+      "factor": "Recent form (last 5 starts)",
+      "lean": "Chicago White Sox",
+      "text": "Over their last five starts the blended ERA/FIP marks are 1.77 (home) vs 6.45 (away) \u2014 a major edge in current form for the Chicago White Sox."
+     },
+     {
+      "factor": "Bullpen availability score",
+      "lean": "Cleveland Guardians",
+      "text": "Bullpen Availability Scores: 61 vs 85 (quality FIP 3.93/3.31, relief IP last 3 days 8.7/4.0, closer available True/True)."
+     },
+     {
+      "factor": "Offense vs. starter handedness",
+      "lean": "Chicago White Sox",
+      "text": "Against a righty starter, the Chicago White Sox OPS split vs the Cleveland Guardians split shows a clear edge for the Chicago White Sox; 14-game OPS runs 0.786 vs 0.799."
+     },
+     {
+      "factor": "Context",
+      "lean": "Chicago White Sox",
+      "text": "Chicago White Sox get home field at Rate Field (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
+     }
+    ]
+   }
+  },
+  {
+   "game_pk": 849827,
+   "date": "2026-10-07",
+   "game_time": "2026-10-08T02:00:00Z",
    "venue": "Petco Park",
    "home": "San Diego Padres",
    "home_abbr": "SD",
    "away": "Milwaukee Brewers",
    "away_abbr": "MIL",
-   "home_pitcher": "Nick Pivetta",
-   "away_pitcher": "Dustin May",
-   "prob_home": 0.5573,
+   "home_pitcher": "Walker Buehler",
+   "away_pitcher": "TBD",
+   "prob_home": 0.5714,
    "pick": "San Diego Padres",
-   "confidence": 0.5573,
+   "confidence": 0.5714,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -2.8500000000000005,
-    "sp_whip_diff": -0.4099999999999999,
-    "sp_k_rate_diff": 0.065,
-    "sp_last5_fip_diff": -2.7299999999999995,
-    "bullpen_score_diff": 5.3999999999999915,
-    "ops_14d_diff": -0.039999999999999925,
+    "sp_fip_diff": 0.45999999999999996,
+    "sp_whip_diff": 0.07000000000000006,
+    "sp_k_rate_diff": -0.02099999999999999,
+    "sp_last5_fip_diff": 0.9199999999999999,
+    "bullpen_score_diff": 6.8999999999999915,
+    "ops_14d_diff": -0.03700000000000003,
     "ops_vs_hand_diff": -0.08699999999999997,
-    "rpg_14d_diff": 0.33000000000000007,
+    "rpg_14d_diff": 1.2000000000000002,
     "home_field": 1,
     "park_factor": 95
    },
    "detail_reasoning": {
-    "summary": "The model gives the San Diego Padres a 56% win probability. This forecast is 100% machine-learned (trained on 2342 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the San Diego Padres a 57% win probability. This forecast is 100% machine-learned (trained on 2344 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
-      "lean": "San Diego Padres",
-      "text": "Nick Pivetta holds a major FIP edge (2.26 vs 5.11), with WHIPs of 1.01 / 1.42 and K rates of 30.0% / 23.5%."
+      "lean": "Milwaukee Brewers",
+      "text": "TBD holds a clear FIP edge (4.56 vs 4.10), with WHIPs of 1.35 / 1.28 and K rates of 20.1% / 22.2%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "San Diego Padres",
-      "text": "Over their last five starts the blended ERA/FIP marks are 1.99 (home) vs 4.72 (away) \u2014 a major edge in current form for the San Diego Padres."
+      "lean": "Milwaukee Brewers",
+      "text": "Over their last five starts the blended ERA/FIP marks are 5.02 (home) vs 4.10 (away) \u2014 a major edge in current form for the Milwaukee Brewers."
      },
      {
       "factor": "Bullpen availability score",
       "lean": "San Diego Padres",
-      "text": "Bullpen Availability Scores: 72 vs 66 (quality FIP 3.42/3.66, relief IP last 3 days 9.0/9.0, closer available True/True)."
+      "text": "Bullpen Availability Scores: 73 vs 66 (quality FIP 3.42/3.66, relief IP last 3 days 8.3/9.0, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
       "lean": "Milwaukee Brewers",
-      "text": "Against a righty starter, the San Diego Padres OPS split vs the Milwaukee Brewers split shows a major edge for the Milwaukee Brewers; 14-game OPS runs 0.687 vs 0.727."
+      "text": "Against a righty starter, the San Diego Padres OPS split vs the Milwaukee Brewers split shows a major edge for the Milwaukee Brewers; 14-game OPS runs 0.750 vs 0.787."
      },
      {
       "factor": "Context",
@@ -61,59 +177,59 @@
    }
   },
   {
-   "game_pk": 849819,
-   "date": "2026-10-06",
-   "game_time": "2026-10-06T22:00:00Z",
-   "venue": "Truist Park",
-   "home": "Atlanta Braves",
-   "home_abbr": "ATL",
-   "away": "Los Angeles Dodgers",
-   "away_abbr": "LAD",
-   "home_pitcher": "Chris Sale",
-   "away_pitcher": "Yoshinobu Yamamoto",
-   "prob_home": 0.5178,
-   "pick": "Atlanta Braves",
-   "confidence": 0.5178,
+   "game_pk": 849838,
+   "date": "2026-10-07",
+   "game_time": "2026-10-08T00:00:00Z",
+   "venue": "Yankee Stadium",
+   "home": "New York Yankees",
+   "home_abbr": "NYY",
+   "away": "Tampa Bay Rays",
+   "away_abbr": "TB",
+   "home_pitcher": "Max Fried",
+   "away_pitcher": "Nick Martinez",
+   "prob_home": 0.5529,
+   "pick": "New York Yankees",
+   "confidence": 0.5529,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -1.04,
-    "sp_whip_diff": 0.10999999999999999,
-    "sp_k_rate_diff": 0.05199999999999999,
-    "sp_last5_fip_diff": -0.6799999999999997,
-    "bullpen_score_diff": 1.0,
-    "ops_14d_diff": -0.09799999999999998,
-    "ops_vs_hand_diff": 0.03500000000000003,
-    "rpg_14d_diff": -0.16999999999999993,
+    "sp_fip_diff": -1.3099999999999996,
+    "sp_whip_diff": -0.10000000000000009,
+    "sp_k_rate_diff": 0.089,
+    "sp_last5_fip_diff": -1.15,
+    "bullpen_score_diff": 9.399999999999991,
+    "ops_14d_diff": 0.08600000000000008,
+    "ops_vs_hand_diff": 0.08999999999999997,
+    "rpg_14d_diff": 1.1500000000000004,
     "home_field": 1,
-    "park_factor": 101
+    "park_factor": 99
    },
    "detail_reasoning": {
-    "summary": "The model gives the Atlanta Braves a 52% win probability. This forecast is 100% machine-learned (trained on 2342 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the New York Yankees a 55% win probability. This forecast is 100% machine-learned (trained on 2344 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
-      "lean": "Atlanta Braves",
-      "text": "Chris Sale holds a major FIP edge (2.34 vs 3.38), with WHIPs of 0.98 / 0.87 and K rates of 30.9% / 25.7%."
+      "lean": "New York Yankees",
+      "text": "Max Fried holds a major FIP edge (2.70 vs 4.01), with WHIPs of 0.99 / 1.09 and K rates of 24.0% / 15.1%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "Atlanta Braves",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.20 (home) vs 2.88 (away) \u2014 a clear edge in current form for the Atlanta Braves."
+      "lean": "New York Yankees",
+      "text": "Over their last five starts the blended ERA/FIP marks are 2.83 (home) vs 3.98 (away) \u2014 a major edge in current form for the New York Yankees."
      },
      {
       "factor": "Bullpen availability score",
-      "lean": "Atlanta Braves",
-      "text": "Bullpen Availability Scores: 76 vs 76 (quality FIP 2.96/3.32, relief IP last 3 days 11.3/8.3, closer available True/True)."
+      "lean": "New York Yankees",
+      "text": "Bullpen Availability Scores: 79 vs 69 (quality FIP 3.60/3.96, relief IP last 3 days 3.7/4.3, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
-      "lean": "Atlanta Braves",
-      "text": "Against a righty starter, the Atlanta Braves OPS split vs the Los Angeles Dodgers split shows a clear edge for the Atlanta Braves; 14-game OPS runs 0.611 vs 0.709."
+      "lean": "New York Yankees",
+      "text": "Against a righty starter, the New York Yankees OPS split vs the Tampa Bay Rays split shows a major edge for the New York Yankees; 14-game OPS runs 0.802 vs 0.716."
      },
      {
       "factor": "Context",
-      "lean": "Atlanta Braves",
-      "text": "Atlanta Braves get home field at Truist Park (park factor 101, roughly neutral). Home teams win about 53.5% of MLB games."
+      "lean": "New York Yankees",
+      "text": "New York Yankees get home field at Yankee Stadium (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
      }
     ]
    }
