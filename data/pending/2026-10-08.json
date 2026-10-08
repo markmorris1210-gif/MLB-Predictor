@@ -1,0 +1,17 @@
+{
+ "849832": {
+  "features": {
+   "sp_fip_diff": -0.8500000000000001,
+   "sp_whip_diff": -0.14000000000000012,
+   "sp_k_rate_diff": 0.10899999999999999,
+   "sp_last5_fip_diff": -3.2,
+   "bullpen_score_diff": 4.100000000000001,
+   "ops_14d_diff": -0.05500000000000005,
+   "ops_vs_hand_diff": 0.08899999999999997,
+   "rpg_14d_diff": -0.25,
+   "home_field": 1,
+   "park_factor": 99
+  },
+  "prob_home": 0.5242
+ }
+}

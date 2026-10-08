@@ -11293,5 +11293,41 @@
   "winner": "San Diego Padres",
   "score": "3\u20134",
   "correct": true
+ },
+ {
+  "date": "2026-10-07",
+  "matchup": "Cleveland Guardians @ Chicago White Sox",
+  "prob_home": 0.6473,
+  "predicted": "Chicago White Sox",
+  "winner": "Cleveland Guardians",
+  "score": "9\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-10-07",
+  "matchup": "Los Angeles Dodgers @ Atlanta Braves",
+  "prob_home": 0.2847,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Los Angeles Dodgers",
+  "score": "4\u20131",
+  "correct": true
+ },
+ {
+  "date": "2026-10-07",
+  "matchup": "Tampa Bay Rays @ New York Yankees",
+  "prob_home": 0.5529,
+  "predicted": "New York Yankees",
+  "winner": "Tampa Bay Rays",
+  "score": "4\u20133",
+  "correct": false
+ },
+ {
+  "date": "2026-10-07",
+  "matchup": "Milwaukee Brewers @ San Diego Padres",
+  "prob_home": 0.5714,
+  "predicted": "San Diego Padres",
+  "winner": "Milwaukee Brewers",
+  "score": "3\u20131",
+  "correct": false
  }
 ]
