@@ -11329,5 +11329,14 @@
   "winner": "Milwaukee Brewers",
   "score": "3\u20131",
   "correct": false
+ },
+ {
+  "date": "2026-10-08",
+  "matchup": "Cleveland Guardians @ Chicago White Sox",
+  "prob_home": 0.5242,
+  "predicted": "Chicago White Sox",
+  "winner": "Cleveland Guardians",
+  "score": "9\u20135",
+  "correct": false
  }
 ]
