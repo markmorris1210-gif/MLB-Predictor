@@ -1,5 +1,64 @@
 {
- "generated": "2026-10-09",
- "slate_date": "2026-10-09",
- "games": []
+ "generated": "2026-10-10",
+ "slate_date": "2026-10-10",
+ "games": [
+  {
+   "game_pk": 849831,
+   "date": "2026-10-10",
+   "game_time": "2026-10-11T00:00:00Z",
+   "venue": "Progressive Field",
+   "home": "Cleveland Guardians",
+   "home_abbr": "CLE",
+   "away": "Chicago White Sox",
+   "away_abbr": "CWS",
+   "home_pitcher": "Gavin Williams",
+   "away_pitcher": "Sean Burke",
+   "prob_home": 0.5664,
+   "pick": "Cleveland Guardians",
+   "confidence": 0.5664,
+   "ml_weight": 1.0,
+   "features": {
+    "sp_fip_diff": -0.48999999999999977,
+    "sp_whip_diff": -0.10999999999999988,
+    "sp_k_rate_diff": 0.09200000000000003,
+    "sp_last5_fip_diff": -1.7899999999999996,
+    "bullpen_score_diff": 13.899999999999999,
+    "ops_14d_diff": 0.23499999999999988,
+    "ops_vs_hand_diff": -0.030999999999999917,
+    "rpg_14d_diff": 1.5,
+    "home_field": 1,
+    "park_factor": 97
+   },
+   "detail_reasoning": {
+    "summary": "The model gives the Cleveland Guardians a 57% win probability. This forecast is 100% machine-learned (trained on 2349 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "factors": [
+     {
+      "factor": "Starting pitching",
+      "lean": "Cleveland Guardians",
+      "text": "Gavin Williams holds a clear FIP edge (3.52 vs 4.01), with WHIPs of 1.11 / 1.22 and K rates of 33.2% / 24.0%."
+     },
+     {
+      "factor": "Recent form (last 5 starts)",
+      "lean": "Cleveland Guardians",
+      "text": "Over their last five starts the blended ERA/FIP marks are 2.31 (home) vs 4.10 (away) \u2014 a major edge in current form for the Cleveland Guardians."
+     },
+     {
+      "factor": "Bullpen availability score",
+      "lean": "Cleveland Guardians",
+      "text": "Bullpen Availability Scores: 68 vs 54 (quality FIP 3.31/3.93, relief IP last 3 days 15.0/15.3, closer available True/True)."
+     },
+     {
+      "factor": "Offense vs. starter handedness",
+      "lean": "Chicago White Sox",
+      "text": "Against a righty starter, the Cleveland Guardians OPS split vs the Chicago White Sox split shows a clear edge for the Chicago White Sox; 14-game OPS runs 1.035 vs 0.800."
+     },
+     {
+      "factor": "Context",
+      "lean": "Cleveland Guardians",
+      "text": "Cleveland Guardians get home field at Progressive Field (park factor 97, pitcher-friendly). Home teams win about 53.5% of MLB games."
+     }
+    ]
+   }
+  }
+ ]
 }
