@@ -11338,5 +11338,14 @@
   "winner": "Cleveland Guardians",
   "score": "9\u20135",
   "correct": false
+ },
+ {
+  "date": "2026-10-10",
+  "matchup": "Chicago White Sox @ Cleveland Guardians",
+  "prob_home": 0.5664,
+  "predicted": "Cleveland Guardians",
+  "winner": "Cleveland Guardians",
+  "score": "0\u20132",
+  "correct": true
  }
 ]
