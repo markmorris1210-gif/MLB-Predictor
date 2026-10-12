@@ -1,14 +1,14 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "games": [
   {
-   "away": "Chicago White Sox",
-   "away_abbr": "CWS",
-   "away_score": 0,
-   "home": "Cleveland Guardians",
-   "home_abbr": "CLE",
+   "away": "Los Angeles Dodgers",
+   "away_abbr": "LAD",
+   "away_score": 1,
+   "home": "Milwaukee Brewers",
+   "home_abbr": "MIL",
    "home_score": 2,
-   "winner": "CLE"
+   "winner": "MIL"
   }
  ]
 }

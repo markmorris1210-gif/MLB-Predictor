@@ -11347,5 +11347,14 @@
   "winner": "Cleveland Guardians",
   "score": "0\u20132",
   "correct": true
+ },
+ {
+  "date": "2026-10-11",
+  "matchup": "Los Angeles Dodgers @ Milwaukee Brewers",
+  "prob_home": 0.5178,
+  "predicted": "Milwaukee Brewers",
+  "winner": "Milwaukee Brewers",
+  "score": "1\u20132",
+  "correct": true
  }
 ]
