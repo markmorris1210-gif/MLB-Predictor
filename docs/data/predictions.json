@@ -1,61 +1,61 @@
 {
- "generated": "2026-10-13",
- "slate_date": "2026-10-13",
+ "generated": "2026-10-14",
+ "slate_date": "2026-10-14",
  "games": [
   {
-   "game_pk": 849813,
-   "date": "2026-10-13",
-   "game_time": "2026-10-14T00:00:00Z",
-   "venue": "Tropicana Field",
-   "home": "Tampa Bay Rays",
-   "home_abbr": "TB",
-   "away": "Cleveland Guardians",
-   "away_abbr": "CLE",
-   "home_pitcher": "Freddy Peralta",
-   "away_pitcher": "Parker Messick",
-   "prob_home": 0.599,
-   "pick": "Tampa Bay Rays",
-   "confidence": 0.599,
+   "game_pk": 849811,
+   "date": "2026-10-14",
+   "game_time": "2026-10-15T00:00:00Z",
+   "venue": "UNIQLO Field at Dodger Stadium",
+   "home": "Los Angeles Dodgers",
+   "home_abbr": "LAD",
+   "away": "Milwaukee Brewers",
+   "away_abbr": "MIL",
+   "home_pitcher": "Blake Snell",
+   "away_pitcher": "Robert Gasser",
+   "prob_home": 0.5942,
+   "pick": "Los Angeles Dodgers",
+   "confidence": 0.5942,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": 0.73,
-    "sp_whip_diff": -0.09000000000000008,
-    "sp_k_rate_diff": -0.067,
-    "sp_last5_fip_diff": -1.27,
-    "bullpen_score_diff": -3.6000000000000085,
+    "sp_fip_diff": -2.5100000000000002,
+    "sp_whip_diff": -0.08999999999999986,
+    "sp_k_rate_diff": 0.096,
+    "sp_last5_fip_diff": -1.2899999999999998,
+    "bullpen_score_diff": 10.599999999999994,
     "ops_14d_diff": 0.0,
-    "ops_vs_hand_diff": -0.017000000000000015,
+    "ops_vs_hand_diff": 0.02299999999999991,
     "rpg_14d_diff": 0.0,
     "home_field": 1,
-    "park_factor": 96
+    "park_factor": 98
    },
    "detail_reasoning": {
-    "summary": "The model gives the Tampa Bay Rays a 60% win probability. This forecast is 100% machine-learned (trained on 2353 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Los Angeles Dodgers a 59% win probability. This forecast is 100% machine-learned (trained on 2354 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
-      "lean": "Cleveland Guardians",
-      "text": "Parker Messick holds a major FIP edge (3.98 vs 3.25), with WHIPs of 1.01 / 1.10 and K rates of 19.7% / 26.4%."
+      "lean": "Los Angeles Dodgers",
+      "text": "Blake Snell holds a major FIP edge (1.77 vs 4.28), with WHIPs of 1.10 / 1.19 and K rates of 31.8% / 22.2%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "Tampa Bay Rays",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.00 (home) vs 3.27 (away) \u2014 a major edge in current form for the Tampa Bay Rays."
+      "lean": "Los Angeles Dodgers",
+      "text": "Over their last five starts the blended ERA/FIP marks are 1.34 (home) vs 2.63 (away) \u2014 a major edge in current form for the Los Angeles Dodgers."
      },
      {
       "factor": "Bullpen availability score",
-      "lean": "Cleveland Guardians",
-      "text": "Bullpen Availability Scores: 72 vs 76 (quality FIP 3.96/3.31, relief IP last 3 days 3.0/8.3, closer available True/True)."
+      "lean": "Los Angeles Dodgers",
+      "text": "Bullpen Availability Scores: 76 vs 65 (quality FIP 3.32/3.66, relief IP last 3 days 8.3/9.7, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
-      "lean": "Cleveland Guardians",
-      "text": "Against a lefty starter, the Tampa Bay Rays OPS split vs the Cleveland Guardians split shows a slight edge for the Cleveland Guardians; 14-game OPS runs 0.000 vs 0.000."
+      "lean": "Los Angeles Dodgers",
+      "text": "Against a lefty starter, the Los Angeles Dodgers OPS split vs the Milwaukee Brewers split shows a clear edge for the Los Angeles Dodgers; 14-game OPS runs 0.000 vs 0.000."
      },
      {
       "factor": "Context",
-      "lean": "Tampa Bay Rays",
-      "text": "Tampa Bay Rays get home field at Tropicana Field (park factor 96, pitcher-friendly). Home teams win about 53.5% of MLB games."
+      "lean": "Los Angeles Dodgers",
+      "text": "Los Angeles Dodgers get home field at UNIQLO Field at Dodger Stadium (park factor 98, roughly neutral). Home teams win about 53.5% of MLB games."
      }
     ]
    }

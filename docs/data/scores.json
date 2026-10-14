@@ -1,23 +1,14 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "games": [
-  {
-   "away": "Los Angeles Dodgers",
-   "away_abbr": "LAD",
-   "away_score": 4,
-   "home": "Milwaukee Brewers",
-   "home_abbr": "MIL",
-   "home_score": 7,
-   "winner": "MIL"
-  },
   {
    "away": "Cleveland Guardians",
    "away_abbr": "CLE",
-   "away_score": 7,
+   "away_score": 1,
    "home": "Tampa Bay Rays",
    "home_abbr": "TB",
    "home_score": 3,
-   "winner": "CLE"
+   "winner": "TB"
   }
  ]
 }
