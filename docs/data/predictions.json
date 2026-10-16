@@ -1,86 +1,28 @@
 {
- "generated": "2026-10-15",
- "slate_date": "2026-10-15",
+ "generated": "2026-10-16",
+ "slate_date": "2026-10-16",
  "games": [
   {
-   "game_pk": 849810,
-   "date": "2026-10-15",
-   "game_time": "2026-10-16T00:00:00Z",
-   "venue": "UNIQLO Field at Dodger Stadium",
-   "home": "Los Angeles Dodgers",
-   "home_abbr": "LAD",
-   "away": "Milwaukee Brewers",
-   "away_abbr": "MIL",
-   "home_pitcher": "Tyler Glasnow",
-   "away_pitcher": "Shane Drohan",
-   "prob_home": 0.6067,
-   "pick": "Los Angeles Dodgers",
-   "confidence": 0.6067,
-   "ml_weight": 1.0,
-   "features": {
-    "sp_fip_diff": -0.41999999999999993,
-    "sp_whip_diff": -0.21999999999999997,
-    "sp_k_rate_diff": 0.10300000000000004,
-    "sp_last5_fip_diff": -1.3699999999999997,
-    "bullpen_score_diff": 9.099999999999994,
-    "ops_14d_diff": 0.0,
-    "ops_vs_hand_diff": -0.04500000000000004,
-    "rpg_14d_diff": 0.0,
-    "home_field": 1,
-    "park_factor": 98
-   },
-   "detail_reasoning": {
-    "summary": "The model gives the Los Angeles Dodgers a 61% win probability. This forecast is 100% machine-learned (trained on 2355 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
-    "factors": [
-     {
-      "factor": "Starting pitching",
-      "lean": "Los Angeles Dodgers",
-      "text": "Tyler Glasnow holds a clear FIP edge (2.79 vs 3.21), with WHIPs of 0.95 / 1.17 and K rates of 34.0% / 23.7%."
-     },
-     {
-      "factor": "Recent form (last 5 starts)",
-      "lean": "Los Angeles Dodgers",
-      "text": "Over their last five starts the blended ERA/FIP marks are 3.40 (home) vs 4.77 (away) \u2014 a major edge in current form for the Los Angeles Dodgers."
-     },
-     {
-      "factor": "Bullpen availability score",
-      "lean": "Los Angeles Dodgers",
-      "text": "Bullpen Availability Scores: 76 vs 66 (quality FIP 3.32/3.66, relief IP last 3 days 8.3/9.0, closer available True/True)."
-     },
-     {
-      "factor": "Offense vs. starter handedness",
-      "lean": "Milwaukee Brewers",
-      "text": "Against a lefty starter, the Los Angeles Dodgers OPS split vs the Milwaukee Brewers split shows a clear edge for the Milwaukee Brewers; 14-game OPS runs 0.000 vs 0.000."
-     },
-     {
-      "factor": "Context",
-      "lean": "Los Angeles Dodgers",
-      "text": "Los Angeles Dodgers get home field at UNIQLO Field at Dodger Stadium (park factor 98, roughly neutral). Home teams win about 53.5% of MLB games."
-     }
-    ]
-   }
-  },
-  {
-   "game_pk": 849818,
-   "date": "2026-10-15",
-   "game_time": "2026-10-15T17:00:00Z",
+   "game_pk": 849817,
+   "date": "2026-10-16",
+   "game_time": "2026-10-17T00:00:00Z",
    "venue": "Progressive Field",
    "home": "Cleveland Guardians",
    "home_abbr": "CLE",
    "away": "Tampa Bay Rays",
    "away_abbr": "TB",
-   "home_pitcher": "Gavin Williams",
-   "away_pitcher": "Griffin Jax",
-   "prob_home": 0.5795,
+   "home_pitcher": "Shawn Armstrong",
+   "away_pitcher": "Nick Martinez",
+   "prob_home": 0.5238,
    "pick": "Cleveland Guardians",
-   "confidence": 0.5795,
+   "confidence": 0.5238,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -1.2399999999999998,
-    "sp_whip_diff": -0.19999999999999996,
-    "sp_k_rate_diff": 0.10400000000000001,
-    "sp_last5_fip_diff": -1.9099999999999997,
-    "bullpen_score_diff": 10.5,
+    "sp_fip_diff": 0.47000000000000064,
+    "sp_whip_diff": 0.2999999999999998,
+    "sp_k_rate_diff": 0.07,
+    "sp_last5_fip_diff": 0.11999999999999966,
+    "bullpen_score_diff": 14.600000000000009,
     "ops_14d_diff": 0.0,
     "ops_vs_hand_diff": -0.05399999999999994,
     "rpg_14d_diff": 0.0,
@@ -88,22 +30,22 @@
     "park_factor": 97
    },
    "detail_reasoning": {
-    "summary": "The model gives the Cleveland Guardians a 58% win probability. This forecast is 100% machine-learned (trained on 2355 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Cleveland Guardians a 52% win probability. This forecast is 100% machine-learned (trained on 2357 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
-      "lean": "Cleveland Guardians",
-      "text": "Gavin Williams holds a major FIP edge (3.52 vs 4.76), with WHIPs of 1.11 / 1.31 and K rates of 33.2% / 22.8%."
+      "lean": "Tampa Bay Rays",
+      "text": "Nick Martinez holds a clear FIP edge (4.48 vs 4.01), with WHIPs of 1.39 / 1.09 and K rates of 22.1% / 15.1%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "Cleveland Guardians",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.31 (home) vs 4.22 (away) \u2014 a major edge in current form for the Cleveland Guardians."
+      "lean": "Tampa Bay Rays",
+      "text": "Over their last five starts the blended ERA/FIP marks are 4.10 (home) vs 3.98 (away) \u2014 a slight edge in current form for the Tampa Bay Rays."
      },
      {
       "factor": "Bullpen availability score",
       "lean": "Cleveland Guardians",
-      "text": "Bullpen Availability Scores: 76 vs 66 (quality FIP 3.31/3.96, relief IP last 3 days 8.0/6.0, closer available True/True)."
+      "text": "Bullpen Availability Scores: 78 vs 64 (quality FIP 3.31/3.96, relief IP last 3 days 7.0/7.0, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",

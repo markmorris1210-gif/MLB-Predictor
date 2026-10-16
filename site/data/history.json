@@ -11392,5 +11392,23 @@
   "winner": "Milwaukee Brewers",
   "score": "6\u20132",
   "correct": false
+ },
+ {
+  "date": "2026-10-15",
+  "matchup": "Tampa Bay Rays @ Cleveland Guardians",
+  "prob_home": 0.5795,
+  "predicted": "Cleveland Guardians",
+  "winner": "Cleveland Guardians",
+  "score": "2\u20133",
+  "correct": true
+ },
+ {
+  "date": "2026-10-15",
+  "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
+  "prob_home": 0.6067,
+  "predicted": "Los Angeles Dodgers",
+  "winner": "Milwaukee Brewers",
+  "score": "6\u20134",
+  "correct": false
  }
 ]
