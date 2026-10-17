@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-16",
- "slate_date": "2026-10-16",
+ "generated": "2026-10-17",
+ "slate_date": "2026-10-17",
  "games": [
   {
-   "game_pk": 849817,
-   "date": "2026-10-16",
-   "game_time": "2026-10-17T00:00:00Z",
+   "game_pk": 849816,
+   "date": "2026-10-17",
+   "game_time": "2026-10-18T00:08:00Z",
    "venue": "Progressive Field",
    "home": "Cleveland Guardians",
    "home_abbr": "CLE",
@@ -45,7 +45,7 @@
      {
       "factor": "Bullpen availability score",
       "lean": "Cleveland Guardians",
-      "text": "Bullpen Availability Scores: 78 vs 64 (quality FIP 3.31/3.96, relief IP last 3 days 7.0/7.0, closer available True/True)."
+      "text": "Bullpen Availability Scores: 85 vs 70 (quality FIP 3.31/3.96, relief IP last 3 days 4.0/4.0, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
