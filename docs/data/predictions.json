@@ -1,56 +1,56 @@
 {
- "generated": "2026-10-17",
- "slate_date": "2026-10-17",
+ "generated": "2026-10-18",
+ "slate_date": "2026-10-18",
  "games": [
   {
-   "game_pk": 849816,
-   "date": "2026-10-17",
-   "game_time": "2026-10-18T00:08:00Z",
+   "game_pk": 849817,
+   "date": "2026-10-18",
+   "game_time": "2026-10-18T21:08:00Z",
    "venue": "Progressive Field",
    "home": "Cleveland Guardians",
    "home_abbr": "CLE",
    "away": "Tampa Bay Rays",
    "away_abbr": "TB",
-   "home_pitcher": "Shawn Armstrong",
-   "away_pitcher": "Nick Martinez",
-   "prob_home": 0.5238,
+   "home_pitcher": "Parker Messick",
+   "away_pitcher": "Drew Rasmussen",
+   "prob_home": 0.5442,
    "pick": "Cleveland Guardians",
-   "confidence": 0.5238,
+   "confidence": 0.5442,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": 0.47000000000000064,
-    "sp_whip_diff": 0.2999999999999998,
-    "sp_k_rate_diff": 0.07,
-    "sp_last5_fip_diff": 0.11999999999999966,
-    "bullpen_score_diff": 14.600000000000009,
+    "sp_fip_diff": 0.3799999999999999,
+    "sp_whip_diff": 0.19000000000000006,
+    "sp_k_rate_diff": 0.0040000000000000036,
+    "sp_last5_fip_diff": 1.43,
+    "bullpen_score_diff": 5.600000000000001,
     "ops_14d_diff": 0.0,
-    "ops_vs_hand_diff": -0.05399999999999994,
+    "ops_vs_hand_diff": 0.017000000000000015,
     "rpg_14d_diff": 0.0,
     "home_field": 1,
     "park_factor": 97
    },
    "detail_reasoning": {
-    "summary": "The model gives the Cleveland Guardians a 52% win probability. This forecast is 100% machine-learned (trained on 2357 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Cleveland Guardians a 54% win probability. This forecast is 100% machine-learned (trained on 2358 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
       "lean": "Tampa Bay Rays",
-      "text": "Nick Martinez holds a clear FIP edge (4.48 vs 4.01), with WHIPs of 1.39 / 1.09 and K rates of 22.1% / 15.1%."
+      "text": "Drew Rasmussen holds a clear FIP edge (3.25 vs 2.87), with WHIPs of 1.10 / 0.91 and K rates of 26.4% / 26.0%."
      },
      {
       "factor": "Recent form (last 5 starts)",
       "lean": "Tampa Bay Rays",
-      "text": "Over their last five starts the blended ERA/FIP marks are 4.10 (home) vs 3.98 (away) \u2014 a slight edge in current form for the Tampa Bay Rays."
+      "text": "Over their last five starts the blended ERA/FIP marks are 3.27 (home) vs 1.84 (away) \u2014 a major edge in current form for the Tampa Bay Rays."
      },
      {
       "factor": "Bullpen availability score",
       "lean": "Cleveland Guardians",
-      "text": "Bullpen Availability Scores: 85 vs 70 (quality FIP 3.31/3.96, relief IP last 3 days 4.0/4.0, closer available True/True)."
+      "text": "Bullpen Availability Scores: 68 vs 62 (quality FIP 3.31/3.96, relief IP last 3 days 12.0/7.7, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
-      "lean": "Tampa Bay Rays",
-      "text": "Against a righty starter, the Cleveland Guardians OPS split vs the Tampa Bay Rays split shows a major edge for the Tampa Bay Rays; 14-game OPS runs 0.000 vs 0.000."
+      "lean": "Cleveland Guardians",
+      "text": "Against a righty starter, the Cleveland Guardians OPS split vs the Tampa Bay Rays split shows a slight edge for the Cleveland Guardians; 14-game OPS runs 0.000 vs 0.000."
      },
      {
       "factor": "Context",

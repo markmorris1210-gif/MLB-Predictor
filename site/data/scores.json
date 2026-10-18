@@ -1,4 +1,14 @@
 {
- "date": "2026-10-16",
- "games": []
+ "date": "2026-10-17",
+ "games": [
+  {
+   "away": "Tampa Bay Rays",
+   "away_abbr": "TB",
+   "away_score": 7,
+   "home": "Cleveland Guardians",
+   "home_abbr": "CLE",
+   "home_score": 3,
+   "winner": "TB"
+  }
+ ]
 }
