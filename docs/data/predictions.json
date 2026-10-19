@@ -1,61 +1,61 @@
 {
- "generated": "2026-10-18",
- "slate_date": "2026-10-18",
+ "generated": "2026-10-19",
+ "slate_date": "2026-10-19",
  "games": [
   {
-   "game_pk": 849817,
-   "date": "2026-10-18",
-   "game_time": "2026-10-18T21:08:00Z",
-   "venue": "Progressive Field",
-   "home": "Cleveland Guardians",
-   "home_abbr": "CLE",
-   "away": "Tampa Bay Rays",
-   "away_abbr": "TB",
-   "home_pitcher": "Parker Messick",
-   "away_pitcher": "Drew Rasmussen",
-   "prob_home": 0.5442,
-   "pick": "Cleveland Guardians",
-   "confidence": 0.5442,
+   "game_pk": 849815,
+   "date": "2026-10-19",
+   "game_time": "2026-10-20T00:08:00Z",
+   "venue": "Tropicana Field",
+   "home": "Tampa Bay Rays",
+   "home_abbr": "TB",
+   "away": "Cleveland Guardians",
+   "away_abbr": "CLE",
+   "home_pitcher": "Freddy Peralta",
+   "away_pitcher": "Shawn Armstrong",
+   "prob_home": 0.5667,
+   "pick": "Tampa Bay Rays",
+   "confidence": 0.5667,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": 0.3799999999999999,
-    "sp_whip_diff": 0.19000000000000006,
-    "sp_k_rate_diff": 0.0040000000000000036,
-    "sp_last5_fip_diff": 1.43,
-    "bullpen_score_diff": 5.600000000000001,
+    "sp_fip_diff": -0.5000000000000004,
+    "sp_whip_diff": -0.3799999999999999,
+    "sp_k_rate_diff": -0.023999999999999994,
+    "sp_last5_fip_diff": -2.0999999999999996,
+    "bullpen_score_diff": -19.5,
     "ops_14d_diff": 0.0,
-    "ops_vs_hand_diff": 0.017000000000000015,
+    "ops_vs_hand_diff": 0.05399999999999994,
     "rpg_14d_diff": 0.0,
     "home_field": 1,
-    "park_factor": 97
+    "park_factor": 96
    },
    "detail_reasoning": {
-    "summary": "The model gives the Cleveland Guardians a 54% win probability. This forecast is 100% machine-learned (trained on 2358 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Tampa Bay Rays a 57% win probability. This forecast is 100% machine-learned (trained on 2359 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
       "lean": "Tampa Bay Rays",
-      "text": "Drew Rasmussen holds a clear FIP edge (3.25 vs 2.87), with WHIPs of 1.10 / 0.91 and K rates of 26.4% / 26.0%."
+      "text": "Freddy Peralta holds a clear FIP edge (3.98 vs 4.48), with WHIPs of 1.01 / 1.39 and K rates of 19.7% / 22.1%."
      },
      {
       "factor": "Recent form (last 5 starts)",
       "lean": "Tampa Bay Rays",
-      "text": "Over their last five starts the blended ERA/FIP marks are 3.27 (home) vs 1.84 (away) \u2014 a major edge in current form for the Tampa Bay Rays."
+      "text": "Over their last five starts the blended ERA/FIP marks are 2.00 (home) vs 4.10 (away) \u2014 a major edge in current form for the Tampa Bay Rays."
      },
      {
       "factor": "Bullpen availability score",
       "lean": "Cleveland Guardians",
-      "text": "Bullpen Availability Scores: 68 vs 62 (quality FIP 3.31/3.96, relief IP last 3 days 12.0/7.7, closer available True/True)."
+      "text": "Bullpen Availability Scores: 48 vs 68 (quality FIP 3.96/3.31, relief IP last 3 days 5.7/15.0, closer available False/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
-      "lean": "Cleveland Guardians",
-      "text": "Against a righty starter, the Cleveland Guardians OPS split vs the Tampa Bay Rays split shows a slight edge for the Cleveland Guardians; 14-game OPS runs 0.000 vs 0.000."
+      "lean": "Tampa Bay Rays",
+      "text": "Against a righty starter, the Tampa Bay Rays OPS split vs the Cleveland Guardians split shows a major edge for the Tampa Bay Rays; 14-game OPS runs 0.000 vs 0.000."
      },
      {
       "factor": "Context",
-      "lean": "Cleveland Guardians",
-      "text": "Cleveland Guardians get home field at Progressive Field (park factor 97, pitcher-friendly). Home teams win about 53.5% of MLB games."
+      "lean": "Tampa Bay Rays",
+      "text": "Tampa Bay Rays get home field at Tropicana Field (park factor 96, pitcher-friendly). Home teams win about 53.5% of MLB games."
      }
     ]
    }
