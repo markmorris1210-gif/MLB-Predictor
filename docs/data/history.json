@@ -11428,5 +11428,14 @@
   "winner": "Tampa Bay Rays",
   "score": "3\u20131",
   "correct": false
+ },
+ {
+  "date": "2026-10-19",
+  "matchup": "Cleveland Guardians @ Tampa Bay Rays",
+  "prob_home": 0.5667,
+  "predicted": "Tampa Bay Rays",
+  "winner": "Tampa Bay Rays",
+  "score": "3\u20137",
+  "correct": true
  }
 ]
