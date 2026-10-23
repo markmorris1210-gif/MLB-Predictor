@@ -1,5 +1,64 @@
 {
- "generated": "2026-10-22",
- "slate_date": "2026-10-22",
- "games": []
+ "generated": "2026-10-23",
+ "slate_date": "2026-10-23",
+ "games": [
+  {
+   "game_pk": 849805,
+   "date": "2026-10-23",
+   "game_time": "2026-10-24T00:00:00Z",
+   "venue": "American Family Field",
+   "home": "Milwaukee Brewers",
+   "home_abbr": "MIL",
+   "away": "Tampa Bay Rays",
+   "away_abbr": "TB",
+   "home_pitcher": "Jacob Misiorowski",
+   "away_pitcher": "Nick Martinez",
+   "prob_home": 0.635,
+   "pick": "Milwaukee Brewers",
+   "confidence": 0.635,
+   "ml_weight": 1.0,
+   "features": {
+    "sp_fip_diff": -1.7899999999999996,
+    "sp_whip_diff": -0.29000000000000004,
+    "sp_k_rate_diff": 0.228,
+    "sp_last5_fip_diff": -1.69,
+    "bullpen_score_diff": 6.799999999999997,
+    "ops_14d_diff": 0.0,
+    "ops_vs_hand_diff": 0.010000000000000009,
+    "rpg_14d_diff": 0.0,
+    "home_field": 1,
+    "park_factor": 99
+   },
+   "detail_reasoning": {
+    "summary": "The model gives the Milwaukee Brewers a 64% win probability. This forecast is 100% machine-learned (trained on 2360 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "factors": [
+     {
+      "factor": "Starting pitching",
+      "lean": "Milwaukee Brewers",
+      "text": "Jacob Misiorowski holds a major FIP edge (2.22 vs 4.01), with WHIPs of 0.80 / 1.09 and K rates of 37.9% / 15.1%."
+     },
+     {
+      "factor": "Recent form (last 5 starts)",
+      "lean": "Milwaukee Brewers",
+      "text": "Over their last five starts the blended ERA/FIP marks are 2.29 (home) vs 3.98 (away) \u2014 a major edge in current form for the Milwaukee Brewers."
+     },
+     {
+      "factor": "Bullpen availability score",
+      "lean": "Milwaukee Brewers",
+      "text": "Bullpen Availability Scores: 85 vs 78 (quality FIP 3.66/3.96, relief IP last 3 days 0.0/0.0, closer available True/True)."
+     },
+     {
+      "factor": "Offense vs. starter handedness",
+      "lean": "Milwaukee Brewers",
+      "text": "Against a righty starter, the Milwaukee Brewers OPS split vs the Tampa Bay Rays split shows a slight edge for the Milwaukee Brewers; 14-game OPS runs 0.000 vs 0.000."
+     },
+     {
+      "factor": "Context",
+      "lean": "Milwaukee Brewers",
+      "text": "Milwaukee Brewers get home field at American Family Field (park factor 99, roughly neutral). Home teams win about 53.5% of MLB games."
+     }
+    ]
+   }
+  }
+ ]
 }
