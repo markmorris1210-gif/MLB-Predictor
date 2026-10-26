@@ -1,5 +1,64 @@
 {
- "generated": "2026-10-25",
- "slate_date": "2026-10-25",
- "games": []
+ "generated": "2026-10-26",
+ "slate_date": "2026-10-26",
+ "games": [
+  {
+   "game_pk": 849804,
+   "date": "2026-10-26",
+   "game_time": "2026-10-27T00:00:00Z",
+   "venue": "Tropicana Field",
+   "home": "Tampa Bay Rays",
+   "home_abbr": "TB",
+   "away": "Milwaukee Brewers",
+   "away_abbr": "MIL",
+   "home_pitcher": "Freddy Peralta",
+   "away_pitcher": "Robert Gasser",
+   "prob_home": 0.6019,
+   "pick": "Tampa Bay Rays",
+   "confidence": 0.6019,
+   "ml_weight": 1.0,
+   "features": {
+    "sp_fip_diff": -0.30000000000000027,
+    "sp_whip_diff": -0.17999999999999994,
+    "sp_k_rate_diff": -0.024999999999999994,
+    "sp_last5_fip_diff": -0.6299999999999999,
+    "bullpen_score_diff": -1.0999999999999943,
+    "ops_14d_diff": 0.0,
+    "ops_vs_hand_diff": -0.08099999999999996,
+    "rpg_14d_diff": 0.0,
+    "home_field": 1,
+    "park_factor": 96
+   },
+   "detail_reasoning": {
+    "summary": "The model gives the Tampa Bay Rays a 60% win probability. This forecast is 100% machine-learned (trained on 2362 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "factors": [
+     {
+      "factor": "Starting pitching",
+      "lean": "Tampa Bay Rays",
+      "text": "Freddy Peralta holds a clear FIP edge (3.98 vs 4.28), with WHIPs of 1.01 / 1.19 and K rates of 19.7% / 22.2%."
+     },
+     {
+      "factor": "Recent form (last 5 starts)",
+      "lean": "Tampa Bay Rays",
+      "text": "Over their last five starts the blended ERA/FIP marks are 2.00 (home) vs 2.63 (away) \u2014 a clear edge in current form for the Tampa Bay Rays."
+     },
+     {
+      "factor": "Bullpen availability score",
+      "lean": "Milwaukee Brewers",
+      "text": "Bullpen Availability Scores: 63 vs 64 (quality FIP 3.96/3.66, relief IP last 3 days 7.3/10.0, closer available True/True)."
+     },
+     {
+      "factor": "Offense vs. starter handedness",
+      "lean": "Milwaukee Brewers",
+      "text": "Against a lefty starter, the Tampa Bay Rays OPS split vs the Milwaukee Brewers split shows a major edge for the Milwaukee Brewers; 14-game OPS runs 0.000 vs 0.000."
+     },
+     {
+      "factor": "Context",
+      "lean": "Tampa Bay Rays",
+      "text": "Tampa Bay Rays get home field at Tropicana Field (park factor 96, pitcher-friendly). Home teams win about 53.5% of MLB games."
+     }
+    ]
+   }
+  }
+ ]
 }
