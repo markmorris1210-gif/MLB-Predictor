@@ -1,56 +1,56 @@
 {
- "generated": "2026-10-26",
- "slate_date": "2026-10-26",
+ "generated": "2026-10-27",
+ "slate_date": "2026-10-27",
  "games": [
   {
-   "game_pk": 849804,
-   "date": "2026-10-26",
-   "game_time": "2026-10-27T00:00:00Z",
+   "game_pk": 849803,
+   "date": "2026-10-27",
+   "game_time": "2026-10-28T00:00:00Z",
    "venue": "Tropicana Field",
    "home": "Tampa Bay Rays",
    "home_abbr": "TB",
    "away": "Milwaukee Brewers",
    "away_abbr": "MIL",
-   "home_pitcher": "Freddy Peralta",
-   "away_pitcher": "Robert Gasser",
-   "prob_home": 0.6019,
+   "home_pitcher": "Griffin Jax",
+   "away_pitcher": "TBD",
+   "prob_home": 0.5194,
    "pick": "Tampa Bay Rays",
-   "confidence": 0.6019,
+   "confidence": 0.5194,
    "ml_weight": 1.0,
    "features": {
-    "sp_fip_diff": -0.30000000000000027,
-    "sp_whip_diff": -0.17999999999999994,
-    "sp_k_rate_diff": -0.024999999999999994,
-    "sp_last5_fip_diff": -0.6299999999999999,
-    "bullpen_score_diff": -1.0999999999999943,
+    "sp_fip_diff": 0.6600000000000001,
+    "sp_whip_diff": 0.030000000000000027,
+    "sp_k_rate_diff": 0.006000000000000005,
+    "sp_last5_fip_diff": 0.1200000000000001,
+    "bullpen_score_diff": -6.1000000000000085,
     "ops_14d_diff": 0.0,
-    "ops_vs_hand_diff": -0.08099999999999996,
+    "ops_vs_hand_diff": -0.010000000000000009,
     "rpg_14d_diff": 0.0,
     "home_field": 1,
     "park_factor": 96
    },
    "detail_reasoning": {
-    "summary": "The model gives the Tampa Bay Rays a 60% win probability. This forecast is 100% machine-learned (trained on 2362 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
+    "summary": "The model gives the Tampa Bay Rays a 52% win probability. This forecast is 100% machine-learned (trained on 2363 graded games this season) and 0% matchup heuristics \u2014 the ML share grows automatically as daily results are added.",
     "factors": [
      {
       "factor": "Starting pitching",
-      "lean": "Tampa Bay Rays",
-      "text": "Freddy Peralta holds a clear FIP edge (3.98 vs 4.28), with WHIPs of 1.01 / 1.19 and K rates of 19.7% / 22.2%."
+      "lean": "Milwaukee Brewers",
+      "text": "TBD holds a major FIP edge (4.76 vs 4.10), with WHIPs of 1.31 / 1.28 and K rates of 22.8% / 22.2%."
      },
      {
       "factor": "Recent form (last 5 starts)",
-      "lean": "Tampa Bay Rays",
-      "text": "Over their last five starts the blended ERA/FIP marks are 2.00 (home) vs 2.63 (away) \u2014 a clear edge in current form for the Tampa Bay Rays."
+      "lean": "Milwaukee Brewers",
+      "text": "Over their last five starts the blended ERA/FIP marks are 4.22 (home) vs 4.10 (away) \u2014 a slight edge in current form for the Milwaukee Brewers."
      },
      {
       "factor": "Bullpen availability score",
       "lean": "Milwaukee Brewers",
-      "text": "Bullpen Availability Scores: 63 vs 64 (quality FIP 3.96/3.66, relief IP last 3 days 7.3/10.0, closer available True/True)."
+      "text": "Bullpen Availability Scores: 60 vs 66 (quality FIP 3.96/3.66, relief IP last 3 days 8.7/9.0, closer available True/True)."
      },
      {
       "factor": "Offense vs. starter handedness",
       "lean": "Milwaukee Brewers",
-      "text": "Against a lefty starter, the Tampa Bay Rays OPS split vs the Milwaukee Brewers split shows a major edge for the Milwaukee Brewers; 14-game OPS runs 0.000 vs 0.000."
+      "text": "Against a righty starter, the Tampa Bay Rays OPS split vs the Milwaukee Brewers split shows a slight edge for the Milwaukee Brewers; 14-game OPS runs 0.000 vs 0.000."
      },
      {
       "factor": "Context",

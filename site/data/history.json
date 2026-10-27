@@ -11455,5 +11455,14 @@
   "winner": "Milwaukee Brewers",
   "score": "4\u20135",
   "correct": true
+ },
+ {
+  "date": "2026-10-26",
+  "matchup": "Milwaukee Brewers @ Tampa Bay Rays",
+  "prob_home": 0.6019,
+  "predicted": "Tampa Bay Rays",
+  "winner": "Milwaukee Brewers",
+  "score": "10\u20131",
+  "correct": false
  }
 ]
