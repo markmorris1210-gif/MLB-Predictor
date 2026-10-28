@@ -1,14 +1,14 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "games": [
   {
    "away": "Milwaukee Brewers",
    "away_abbr": "MIL",
-   "away_score": 10,
+   "away_score": 3,
    "home": "Tampa Bay Rays",
    "home_abbr": "TB",
-   "home_score": 1,
-   "winner": "MIL"
+   "home_score": 4,
+   "winner": "TB"
   }
  ]
 }
